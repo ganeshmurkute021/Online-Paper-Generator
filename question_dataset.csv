@@ -1,0 +1,1507 @@
+id,question,subject,difficulty,marks,year,units
+
+1,"Explain Digital signal with diagram.",DLDM,Easy,06,Second,Unit 1
+2,"Explain Basic and Universal gates with the help of truth table and symbols.",DLDM,Easy,06,Second,Unit 1
+3,"Explain Exclusive -OR and Exclusive- NOR gate",DLDM,Hard,06,Second,Unit 1
+4,"What is Number System and explain their types.",DLDM,Easy,06,Second,Unit 1
+5,"Explain Binary-to-Decimal and Decimal-to-Binary Conversion",DLDM,Medium,06,Second,Unit 1
+6,"Explain 1's complement and o's complement along with example.",DLDM,Medium,06,Second,Unit 1
+7,"Explain Binary Arithmetic with their operation.",DLDM,Easy,06,Second,Unit 1
+8,"Explain Octal-to-Decimal, Decimal-to-Octal, Octal to Binary and Binary to Octal." ,DLDM,Hard,06,Second,Unit 1
+9,"What is code and explain their types?",DLDM,Medium,06,Second,Unit 1
+10,"Explain the Error Detecting and error-correcting. Code ",DLDM,Hard,06,Second,Unit 1
+11,"What is Hamming code and explain it with an example",DLDM,Easy,06,Second,Unit 1
+
+12,"Write a short note on combinational circuit.",DLDM,Medium,06,Second,Unit 2
+13,"Explain KARNAUGH-MAP representation of logic function ",DLDM,Medium,06,Second,Unit 2
+14,"Explain don't care condition",DLDM,Easy,06,Second,Unit 2
+15,"Explain Half-Adder and full-adder",DLDM,Easy,06,Second,Unit 2
+16,"Explain Half-Subtractor and Full-Subtractor.",DLDM,Easy,06,Second,Unit 2
+17,"Explain BCD to 7-segment Decoder.",DLDM,Medium,06,Second,Unit 2
+18,"Write a short note on Encoder.",DLDM,Hard,06,Second,Unit 2
+19,"Write a short note on Multiplexer.",DLDM,Hard,06,Second,Unit 2
+20,"Explain Demultiplexer.",DLDM,Hard,06,Second,Unit 2
+21,"Explain BCD-adder with diagram.",DLDM,Medium,06,Second,Unit 2 
+22,"Explain BCD-subtractor with diagram.",DLDM,Medium,06,Second,Unit 2
+23,"Explain Arithmetic Logic Unit (ALU)",DLDM,Medium,06,Second,Unit 2
+
+24,"Explain sequential circuit.",DLDM,Easy,06,Second,Unit 3
+25,"Explain 1-Bit memory cell",DLDM,Easy,06,Second,Unit 3
+26,"Explain Clock-SR Flip Flop and also explain application of flip flop.",DLDM,Easy,06,Second,Unit 3
+27,"Explain JKT-Flipflop",DLDM,Hard,06,Second,Unit 3
+28,"Explain D-type Flip Flop.",DLDM,Hard,06,Second,Unit 3
+29,"Explain Shift Register",DLDM,Hard,06,Second,Unit 3
+30,"Explain application of shift Register. (ii) Parallel to serial",DLDM,Medium,06,Second,Unit 3
+31,"Write a short note on Asynchronous Counter (Ripple)",DLDM,Medium,06,Second,Unit 3
+32,"Write a short note on synchronous Counter (Ripple)",DLDM,Medium,06,Second,Unit 3
+
+33,"Explain ideal microprocessor with diagram.",DLDM,Medium,06,Second,Unit 4
+34,"Differentiate between 8-bit microprocessor and 16-bit microprocessor",DLDM,Easy,06,Second,Unit 4
+35,"Explain the data bus.",DLDM,Medium,06,Second,Unit 4
+36,"Explain address bus and control bus.",DLDM,Easy,06,Second,Unit 4
+37,"Explain the program counter of microprocessor.",DLDM,Hard,06,Second,Unit 4
+38,"Write a short note on stack pointer and flag.",DLDM,Hard,06,Second,Unit 4
+39,"Explain the 8086 microprocessor architecture",DLDM,Hard,06,Second,Unit 4
+
+40,"What is memory interface and Ilo interface? ",DLDM,Easy,06,Second,Unit 5
+41,"Write a short note direct memory access.",DLDM,Medium,06,Second,Unit 5
+42,"Explain interrupts in 8086 microprocessor.",DLDM,Hard,06,Second,Unit 5
+43,"what is direct and indirect addressing made?",DLDM,Easy,06,Second,Unit 5
+44,"Explain relative and index addressing mode.",DLDM,Medium,06,Second,Unit 5
+45,"What is data transfer instructions?",DLDM,Easy,06,Second,Unit 5
+46,"Explain bit inherent and bit direct addressing mode",DLDM,Medium,06,Second,Unit 5
+47,"Explain arithmetic and logical instruction.",DLDM,Easy,06,Second,Unit 5
+48,"Explain branch instruction and subroutine instruction.",DLDM,Medium,06,Second,Unit 5
+49,"Explain bit manipulation instruction.",DLDM,Hard,06,Second,Unit 5
+50, "Write a short note on assembler and compiler. ",DLDM,Hard,06,Second,Unit 5
+51,"What is programming and debugging tools.?",DLDM,Hard,06,Second,Unit 5
+
+
+52,"Explain types of scaling in cloud computing .Sate benefits and limitations of cloud computing.",Cloud Computing,Medium,06,Final,Unit 1
+53,"What is Virtualization? Explain types of virtualization.",Cloud Computing,Medium,06,Final,Unit 1
+54,"Explain the challenges and benefits of cloud computing ",Cloud Computing,Medium,06,Final,Unit 1
+55,"Define Cloud Computing & identify its core features.",Cloud Computing,Easy,06,Final,Unit 1
+56,"Draw and explain in detail Machine references model ",Cloud Computing,Easy,06,Final,Unit 1
+57,"Illustrate the concept of “Cloud Cost Model” with example.",Cloud Computing,Easy,06,Final,Unit 1
+58,"Draw and explain the cloud computing architecture.",Cloud Computing,Hard,06,Final,Unit 1
+59,"State essential characteristic of cloud computing.",Cloud Computing,Easy,06,Final,Unit 1
+60,"Explain in short different cloud computing models.",Cloud Computing,Hard,06,Final,Unit 1
+61,"Highlight three challenges organizations may face when migrating to the cloud and suggest potential solutions.",Cloud Computing,Hard,06,Final,Unit 1
+62,"Define and compare the pay-as-you-go and subscription economic models in cloud computing.",Cloud Computing,Medium,06,Final,Unit 1
+63,"Differentiate between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).",Cloud Computing,Medium,06,Final,Unit 1
+64,"Explain Cloud Computing Reference Model",Cloud Computing,Hard,06,Final,Unit 1
+65,"Explain Virtualization and its different environment",Cloud Computing,Easy,06,Final,Unit 1
+66,"Explain the vision of Cloud Computing",Cloud Computing,Easy,06,Final,Unit 1
+
+67,"Explain the deployment Model of Outsource & Onsite Community Cloud",Cloud Computing,Medium,06,Final,Unit 2
+68,"Interpret the deployment Model of Hybrid Cloud",Cloud Computing,Medium,06,Final,Unit 2
+69,"Explain the Platform as a service with the help of Example",Cloud Computing,Easy,06,Final,Unit 2
+70,"Discuss the significance of data centers in supporting the expanding demands of cloud services.",Cloud Computing,Hard,06,Final,Unit 2
+71,"Explain the role of cloud management in overseeing and optimizing cloud infrastructure.",Cloud Computing,Easy,06,Final,Unit 2
+72,"Discuss the primary requirements that influence the design of a data center for cloud infrastructure.",Cloud Computing,Easy,06,Final,Unit 2
+73,"Explain the virtualization reference model with neat sketch.",Cloud Computing,Easy,06,Final,Unit 2
+74,"What is virtualization and what are its benefits?",Cloud Computing,Easy,06,Final,Unit 2
+75,"Differentiate between Type-1 and Type-2 Hypervisor.",Cloud Computing,Easy,06,Final,Unit 2
+76,"Enlist and represent the service levels for cloud application.",Cloud Computing,Easy,06,Final,Unit 2
+77,"Describe and explain various types of cloud with Suitable example",Cloud Computing,Easy,06,Final,Unit 2
+78,"Discuss the concept of Database Management in the cloud.",Cloud Computing,Medium,06,Final,Unit 2
+79,"Explain open challenges for implementing cloud computing technology.",Cloud Computing,Hard,06,Final,Unit 2
+80,"What cloud providers does for Iaas? Explain scope of between provider and consumer.",Cloud Computing,Hard,06,Final,Unit 2
+81,"Explain transactional integrity through stored procedure.",Cloud Computing,Medium,06,Final,Unit 2
+
+82,"What is DBaaS? Explain DBaaS benefits.",Cloud Computing,Easy,06,Final,Unit 3
+83,"Explain the concept of capacity planning in the context of cloud scaling.",Cloud Computing,Easy,06,Final,Unit 3
+84,"Explain disaster recovery planning with risks and benefits.",Cloud Computing,Medium,06,Final,Unit 3
+85,"Explain the concept “The Impact of Load”.",Cloud Computing,Medium,06,Final,Unit 3
+86,"Briefly summarize the term “The value of your capacity”.",Cloud Computing,Hard,06,Final,Unit 3
+87,"Define and explain in detail Disaster recovery planning.",Cloud Computing,Easy,06,Final,Unit 3
+88,"Explain the concept Map Reduce with an example.",Cloud Computing,Easy,06,Final,Unit 3
+89,"What is storage virtualization? Explain different types of storage virtualization.",Cloud Computing,Medium,06,Final,Unit 3
+90,"Explain the different components of Hadoop and its advantages.",Cloud Computing,Easy,06,Final,Unit 3
+91,"Define virtualization and briefly explain how it enables the efficient utilization of computing resources.",Cloud Computing,Hard,06,Final,Unit 3
+92,"Explain how SDN decouples the control plane and data plane in network infrastructure.",Cloud Computing,Hard,06,Final,Unit 3
+93,"Explain how virtualization contributes to the scalability and efficiency of cloud-based services.",Cloud Computing,Hard,06,Final,Unit 3
+94,"Identify the essential components of cloud computing required for defining the Cloud for Enterprise with the help of Example",Cloud Computing,Medium,06,Final,Unit 3
+95,"Explain Database as a service for cloud as an enterprise",Cloud Computing,Easy,06,Final,Unit 3
+96,"Explain the Disaster Recovery Scenario with AWS Cloud",Cloud Computing,Medium,06,Final,Unit 3
+
+97,"Explain Aneka Framework Overview?",Cloud Computing,Easy,06,Final,Unit 4
+98,"Explain different services of Aneka Cloud?",Cloud Computing,Easy,06,Final,Unit 4
+99,"Explain the role of Platform Abstraction Layer(PAL) in Aneka Container",Cloud Computing,Medium,06,Final,Unit 4
+100,"Identify and explain two challenges that organizations may face in implementing and managing cloud storage solutions.",Cloud Computing,Hard,06,Final,Unit 4
+101,"Provide a brief comparison between the data models of HBase, MongoDB, Cassandra, and DynamoDB.",Cloud Computing,Hard,06,Final,Unit 4
+102,"Explain the concept of cloud storage and how it differs from traditional on-premises storage solutions.",Cloud Computing,Hard,06,Final,Unit 4
+103,"Discuss the concept of Amazon web service in cloud.",Cloud Computing,Easy,06,Final,Unit 4
+104,"What do you understand by Googel App Engine? Explain its benefits.",Cloud Computing,Medium,06,Final,Unit 4
+105,"Define Backup and mention some requirements of backup in detail.",Cloud Computing,Easy,06,Final,Unit 4
+106,"Generalize the term “Aneka container “what is its use.",Cloud Computing,Medium,06,Final,Unit 4
+107,"Explain the logical organization of an Aneka Cloud.",Cloud Computing,Hard,06,Final,Unit 4
+108,"Briefly summarize Aneka’s resource-provisioning capabilities.",Cloud Computing,Medium,06,Final,Unit 4
+109,"Describe and classify services installed in the Aneka container.",Cloud Computing,Easy,06,Final,Unit 4
+110,"Explain resource reservation service in Aneka.",Cloud Computing,Hard,06,Final,Unit 4
+
+111,"How cloud computing can be applied to support E-health and Telemedicine.",Cloud Computing,Medium,06,Final,Unit 5
+112,"Explain Amazon EC2 and its basic features & related services.",Cloud Computing,Easy,06,Final,Unit 5
+113,"What are Dropbox and iCloud ?Which types of problem do they solved by using cloud technologies.",Cloud Computing,Easy,06,Final,Unit 5
+114,"Discuss the concept of a bucket? What type of storage does it provide?",Cloud Computing,Easy,06,Final,Unit 5
+115,"What is Windows Azure? Discuss the storage services provided by Windows Azure.",Cloud Computing,Medium,06,Final,Unit 5
+116,"Describe how cloud computing technology can be applied to support remote ECG monitoring",Cloud Computing,Hard,06,Final,Unit 5
+117,"Explain briefly the security concerns of cloud computing.",Cloud Computing,Easy,06,Final,Unit 5
+118,"Which challenges does the cloud security need to face in day to day life?",Cloud Computing,Medium,06,Final,Unit 5
+119,"Differentiate between the cloud storage and traditional storage.",Cloud Computing,Easy,06,Final,Unit 5
+120,"Explain the basic architecture of Amazon S3, including its storage classes and access control features.",Cloud Computing,Hard,06,Final,Unit 5
+121,"Define cloud object storage and explain its fundamental principles in comparison to traditional storage models.",Cloud Computing,Medium,06,Final,Unit 5
+122,"Discuss the factor that organizations should consider when choosing between the cloud object storage services.",Cloud Computing,Hard,06,Final,Unit 5
+123,"Interpret the various Amazon Web Services with the help of example",Cloud Computing,Easy,06,Final,Unit 5
+124,"Classify the various applications of cloud computing",Cloud Computing,Easy,06,Final,Unit 5
+125,"Interpret the usage of cloud computing in Biology: Protein Structure Prediction",Cloud Computing,Hard,06,Final,Unit 5
+
+
+126,"What is Artificial Intelligence? Explain its future scope.",AI,Easy,06,Final,Unit 1
+127,"Write down brief history and evolution of Artificial Intelligence.",AI,Hard,06,Final,Unit 1
+128,"Explain in detail, the structure of different intelligent agents.",AI,Medium,06,Final,Unit 1
+129,"Elaborate Artificial intelligence with suitable example along with it’s application.",AI,Medium,06,Final,Unit 1
+130,"Discuss the historical evaluation of Artificial Intelligence.",AI,Hard,06,Final,Unit 1
+131,"State the relationship between Agent and Environment.",AI,Easy,06,Final,Unit 1
+
+132,"Give the outline of Uniform cost search algorithm.",AI,Medium,06,Final,Unit 2
+133,"Explain A* algorithm for the shortest path.",AI,Easy,06,Final,Unit 2
+134,"What is alpha-beta pruning? Explain the function of alpha-beta pruning.",AI,Hard,06,Final,Unit 2
+135,"Write A* algorithm and discuss the various observations about algorithm.",AI,Medium,06,Final,Unit 2
+136,"Explain how the steepest accent hill climbing works and Heuristic functions?",AI,Medium,06,Final,Unit 2
+
+137,"List and Explain the issues in knowledge representation.",AI,Medium,06,Final,Unit 3
+138,"State representation of facts in propositional logic with an example.",AI,Easy,06,Final,Unit 3
+139,"Differentiate between forward and backward reasoning.",AI,Hard,06,Final,Unit 3
+140,"Explain the production based knowledge representation technique.",AI,Medium,06,Final,Unit 3
+141,"Give outline of simple forward Chaining algorithm with suitable example.",AI,Easy,06,Final,Unit 3
+142,"What is planning? What is need of planning.",AI,Easy,06,Final,Unit 3
+
+143,"Compare and contrast the following:Forward Vs. Backward Reasoning",AI,Medium,06,Final,Unit 4
+144,"Explain Bayesian Network.",AI,Medium,06,Final,Unit 4
+145,"What is fuzzy set? Explain degree of membership. How does are represent a fuzzy set in a computer.",AI,Easy,06,Final,Unit 4
+146,"Discuss briefly about Bayesian Network.",AI,Hard,06,Final,Unit 4
+147,"Explain about Dempster-shafer theory.",AI,Hard,06,Final,Unit 4
+148,"List out the planning terminologies and components of planning.",AI,Easy,06,Final,Unit 4
+
+149,"What is Natural Language Processing? Explain various types of NLP techniques.",AI,Easy,06,Final,Unit 5
+150,"Comparison between Syntactic Processing & Semantic Processing.",AI,Medium,06,Final,Unit 5
+151,"With neat sketch, explain the architecture, characteristics features and roles of expert system.",AI,Hard,06,Final,Unit 5
+152,"What is Natural Language Processing? Explain various types of NLP techniques.",AI,Easy,06,Final,Unit 5
+153,"What is Expert system? Explain its Architecture, Features & applications.",AI,Medium,06,Final,Unit 5
+
+
+154,"What is design thinking and explain the principles of design thinking?",Design Thinking,Easy,06,Final,Unit 1
+155,"Explain the different phases of design thinking process.",Design Thinking,Easy,06,Final,Unit 1
+156,"Explain human centered design process.",Design Thinking,Easy,06,Final,Unit 1
+157,"Explain the different phases of design thinking process.",Design Thinking,Medium,06,Final,Unit 1
+158,"Explain of Human-Centered Design (HCD) process?",Design Thinking,Medium,06,Final,Unit 1
+159,"Elaborate two models of design thinking?",Design Thinking,Hard,06,Final,Unit 1
+160,"What is the goal of the Design Thinking process?",Design Thinking,E,06,Final,Unit 1
+161,"Explain design thinking Tools.",Design Thinking,Medium,06,Final,Unit 1
+162,"Define Design Thinking. What is Origin of Design Thinking?",Design Thinking,Hard,06,Final,Unit 1
+163,"Describe Design Thinking as a strategy for business Innovation?",Design Thinking,Hard,06,Final,Unit 1
+164,"Explain any five Design Thinking Applications in detail.",Design Thinking,Medium,06,Final,Unit 1
+165,"Explain Importance of Design Thinking.",Design Thinking,Easy,06,Final,Unit 1
+
+166,"Discuss the role of Empathy in Design Thinking?",Design Thinking,Medium,06,Final,Unit 2
+167,"Discuss the creation of user personas?",Design Thinking,Medium,06,Final,Unit 2
+168,"Explain the concept of Customer Journey mapping.",Design Thinking,Medium,06,Final,Unit 2
+169,"What is emphasize? Explain the role of empathy in design thinking.",Design Thinking,Easy,06,Final,Unit 2
+170,"Explain the role empathy maps in design thinking process.",Design Thinking,Easy,06,Final,Unit 2
+171,"How to Emphasize explain in detail.",Design Thinking,Hard,06,Final,Unit 2
+172,"Why to use Empathy Maps.",Design Thinking,Easy,06,Final,Unit 2
+173,"Explain the process of How to create an empathy map.",Design Thinking,Medium,06,Final,Unit 2
+174,"What are the things to be done before empathy mapping",Design Thinking,Hard,06,Final,Unit 2
+175,"Why is user persona important?",Design Thinking,Easy,06,Final,Unit 2
+176,"Create a CJM of the persona , priya, 30,from Bengaluru , priya creating a presentation for her work.",Design Thinking,Hard,06,Final,Unit 2
+177,"What new perspectives does design thinking offer.",Design Thinking,Hard,06,Final,Unit 2
+
+178,"Explain of Inventive principles and their applications.",Design Thinking,Hard,06,Final,Unit 3
+179,"What is root cause analysis? What are its goals and benefits?",Design Thinking,Easy,06,Final,Unit 3
+180,"What is TRIZ? Explain the use of TRIZ methods in industry.",Design Thinking,Medium,06,Final,Unit 3
+181,"Explain the term Conflict of interest with example.",Design Thinking,Medium,06,Final,Unit 3
+182,"What is conflict of interest explain its types.",Design Thinking,Hard,06,Final,Unit 3
+183,"How to apply the 5 Whys tool.",Design Thinking,Easy,06,Final,Unit 3
+184,"Explain Big picture through System operator",Design Thinking,Hard,06,Final,Unit 3
+185,"Explain Big picture through function modeling silent brainstorming",Design Thinking,Hard,06,Final,Unit 3
+186,"Write a note on metaphors for ideation.",Design Thinking,Medium,06,Final,Unit 3
+187,"Write a note on CREATE and What if tools for ideation.",Design Thinking,Easy,06,Final,Unit 3
+
+188,"Explain prototyping and its advantages in design thinking.",Design Thinking,Easy,06,Final,Unit 4
+189,"What is Market Validation? Explain the steps to determine market validation.",Design Thinking,Hard,06,Final,Unit 4
+190,"Explain the Best practices of presentation. Preparing for your Market Research Presentation.",Design Thinking,Medium,06,Final,Unit 4
+191,"Define prototyping? Explain Low-Fidelity and High-Fidelity Prototyping in detail.",Design Thinking,Easy,06,Final,Unit 4
+192,"Explain Pros and Cons of Low-Fidelity and High-Fidelity Prototyping",Design Thinking,Easy,06,Final,Unit 4
+193,"Explain Assumption during design thinking process.",Design Thinking,Hard,06,Final,Unit 4
+194,"Explain Creative prototyping methodologies.",Design Thinking,Hard,06,Final,Unit 4
+195,"Explain Best prototype presentation techniques.",Design Thinking,Medium,06,Final,Unit 4
+196,"Explain the Best practices of presentation. Preparing for your Market Research Presentation",Design Thinking,Hard,06,Final,Unit 4
+
+197,"What are the benefits of iteration in the design thinking process?",Design Thinking,Easy,06,Final,Unit 5
+198,"Discuss about the techniques for taking the Idea to the market.",Design Thinking,Medium,06,Final,Unit 5
+199,"Explain how innovation management is done in a company.",Design Thinking,Hard,06,Final,Unit 5
+200,"What are the benefits of iteration in the design thinking process?",Design Thinking,Easy,06,Final,Unit 5
+201,"What are the techniques for taking the Idea to the market?",Design Thinking,Hard,06,Final,Unit 5
+202,"What Are the Steps of an Iterative-Design Process?",Design Thinking,Medium,06,Final,Unit 5
+203,"Explain how innovation management is done in a company.",Design Thinking,Medium,06,Final,Unit 5
+204,"What are the benefits of iteration in the design thinking process?",Design Thinking,Hard,06,Final,Unit 5
+205,"What are the techniques for taking the Idea to the market.",Design Thinking,Easy,06,Final,Unit 5
+
+206,"Enlist the characteristics of Big Data.",Big Data,Easy,06,Final,Unit 1
+207,"Mention various distribution packages of Big Data",Big Data,Medium,06,Final,Unit 1
+208,"Explain different applications of Bigdata in detail.",Big Data,Hard,06,Final,Unit 1
+209,"Explain the applications and challenges associated with big data.",Big Data,Easy,06,Final,Unit 1
+210,"Describe the characteristics of Big Data with an Example.",Big Data,Medium,06,Final,Unit 1
+211,"Write note on enabling Technologies for Big Data",Big Data,Hard,06,Final,Unit 1
+212,"Draw and explain the Big Data Stack.",Big Data,Easy,06,Final,Unit 1
+213,"Give the enabling technologies of Big Data Explain with an Example.",Big Data,Medium,06,Final,Unit 1
+214,"Enlist and explain in brief the motivation behind emergence of Big Data?",Big Data,Hard,06,Final,Unit 1
+215,"Identify and discussed the two major challenges associated with Big Data processing.",Big Data,Easy,06,Final,Unit 1
+216,"Explain Big Data stack with suitable example.",Big Data,Medium,06,Final,Unit 1
+
+217,"Define and explain HDFS. Explain its role in Big Data Ecosystem.",Big Data,Easy,06,Final,Unit 2
+218,"Explain the functionalities of YARN in the context of big data processing.",Big Data,Medium,06,Final,Unit 2
+219,"What is HDFS? What are the Features of HDFS?",Big Data,Hard,06,Final,Unit 2
+220,"Explain the CAP theorem in detail.",Big Data,Easy,06,Final,Unit 2
+221,"What is Cassandra? Differentiate NoSQL and relational database",Big Data,Medium,06,Final,Unit 2
+222,"What is CAP theorem? Explain the consistency trade-off.",Big Data,Hard,06,Final,Unit 2
+223,"Explain Map-Reduce programming model with spark in the perspective of word count example.",Big Data,Easy,06,Final,Unit 2
+224,"Differentiate ACID and BASE. Which of the property you will apply for airline reservations explain.",Big Data,Medium,06,Final,Unit 2
+225,"Explain HBase in detail and compare it with traditional database system",Big Data,Hard,06,Final,Unit 2
+226,"Explain HDFS with respect to name node and data node.",Big Data,Easy,06,Final,Unit 2
+227,"Explain working of MapReduce by using the Word Count example.",Big Data,Medium,06,Final,Unit 2
+
+228,"Give any three typical use cases of streaming data.",Big Data,Easy,06,Final,Unit 3
+229,"Describe in brief the Apache Kafka.",Big Data,Medium,06,Final,Unit 3
+230,"Explain Spark streaming in detail.",Big Data,Hard,06,Final,Unit 3
+231,"Enlist and Explain components of a big data pipeline.",Big Data,Easy,06,Final,Unit 3
+232,"What are the components of KAFKA? Explain need of KAFKA.",Big Data,Medium,06,Final,Unit 3
+233,"What are the different features of a real-time big data pipeline system?",Big Data,Hard,06,Final,Unit 3
+234,"What is mahout? Explain the features and Applications of Mahout.",Big Data,Easy,06,Final,Unit 3
+235,"Explain K-Means clustering and Naïve Bayes Classification Algorithm.",Big Data,Medium,06,Final,Unit 3
+236,"What is Apache Spark? Draw and explain the Components of Spark.",Big Data,Hard,06,Final,Unit 3
+237,"Explain in brief the key features of spark streaming.",Big Data,Easy,06,Final,Unit 3
+238,"Explain in detail the role of KAFKA in building real time data pipeline.",Big Data,Medium,06,Final,Unit 3
+239,"Write a note on the significance of big data streaming platforms in handling big data.",Big Data,Hard,06,Final,Unit 3
+
+240,"Why machine learning is important in the context of Big Data.",Big Data,Easy,06,Final,Unit 4
+241,"Compare Spark GraphX and Giraph in the context of graph processing.",Big Data,Medium,06,Final,Unit 4
+242,"What is a Messaging System? Explain the Role and working of KAFKA.",Big Data,Hard,06,Final,Unit 4
+243,"What is Data Streaming? Explain Big Data Streaming Architecture",Big Data,Easy,06,Final,Unit 4
+244,"Draw and explain Kappa architecture of real-time Big Data Pipeline",Big Data,Medium,06,Final,Unit 4
+245,"Explain applications of machine learning for handling big data.",Big Data,Hard,06,Final,Unit 4
+246,"Compare Spark Pergel and Giraph.",Big Data,Easy,06,Final,Unit 4
+247,"Explain the Naive-Bays algorithm and its applications for big data",Big Data,Medium,06,Final,Unit 4
+248,"Explain the role of Machine Learning techniques in Big Data processing",Big Data,Hard,06,Final,Unit 4
+249,"Discuss about different Mahout algorithms for Bigdata processing",Big Data,Easy,06,Final,Unit 4
+250,"What is Graph processing? Explain Giraph in detail.",Big Data,Hard,06,Final,Unit 4
+
+251,"Describe the key features of Mongo DB.",Big Data,Easy,06,Final,Unit 5
+252,"Write short note on Documents and Collections in Mongo DB.",Big Data,Medium,06,Final,Unit 5
+253,"Explain CRUD operations in Mongo DB with example.",Big Data,Hard,06,Final,Unit 5
+254,"What are the principles of schema design in Mongo DB?",Big Data,Easy,06,Final,Unit 5
+255,"How to interact with Mongo DB using java script shell explain with suitable example.",Big Data,Medium,06,Final,Unit 5
+256,"What are key features of Mongo DB that make it suitable for Big Data applications? Write syntax and structure of Mongo DB.",Big Data,Hard,06,Final,Unit 5
+257,"What is MongoDB? Write difference between MongoDB and RDBMS.",Big Data,Easy,06,Final,Unit 5
+258,"What is NoSQL databases? What are the types of NoSQL databases?",Big Data,Medium,06,Final,Unit 5
+259,"Where we can use MongoDB? Write the Features of MongoDB.",Big Data,Easy,06,Final,Unit 5
+260,"Discuss the advantages of using the JavaScript shell for MongoDB queries.",Big Data,Hard,06,Final,Unit 5
+261,"Explain the syntax and structure of the MongoDB query language. Provide an example of a complex query in MongoDB.",Big Data,Medium,06,Final,Unit 5
+
+
+261,"What is Blockchain? Explain key elements of it.",Blockchain,Easy,06,Final,Unit 1
+262,"Difference between public vs. private Blockchain.",Blockchain,Medium,06,Final,Unit 1
+263,"Explain Merkel Tree and Merkel Tree Structure.",Blockchain,Hard,06,Final,Unit 1
+264,"Draw and explain layered architecture of Blockchain system.",Blockchain,Easy,06,Final,Unit 1
+265,"What is Hash function? Explain its characteristics.",Blockchain,Medium,06,Final,Unit 1
+266,"What Are the 4 Different Types of Blockchain Technology? Explain with advantages and disadvantages of each type.",Blockchain,Hard,06,Final,Unit 1
+267,"What are the benefits of Smart contracts?",Blockchain,Easy,06,Final,Unit 1
+268,"Explain Distributed Consensus.",Blockchain,Medium,06,Final,Unit 1
+269,"Explain Security aspects of Blockchain.",Blockchain,Hard,06,Final,Unit 1
+270,"How does the hashing process works?",Blockchain,Easy,06,Final,Unit 1
+271,"How do P2P networks work? Explain its type.Blockchain,Medium,06,Final,Unit 1
+
+271,"What is Bitcoin? What are the advantages and disadvantages of Bitcoin as Currency?",Blockchain,Easy,06,Final,Unit 2
+272,"Explain permissioned Blockchain with their characteristics",Blockchain,Medium,06,Final,Unit 2
+273,"Explain Proof of Stake and Proof of Elapsed Time",Blockchain,Hard,06,Final,Unit 2
+274,"Explain PoW and Proof of Burn.",Blockchain,Easy,06,Final,Unit 2
+275,"Explain payments and double spending",Blockchain,Medium,06,Final,Unit 2
+276,"Explain Attacks on PoW and the monopoly problem",Blockchain,Hard,06,Final,Unit 2
+277,"Explain Mining difficulties.",Blockchain,Easy,06,Final,Unit 2
+278,"Explain any one application of smart contract",Blockchain,Medium,06,Final,Unit 2
+279,"What is Double spending explain with suitable example.",Blockchain,Hard,06,Final,Unit 2
+
+280," Explain permissioned model and use cases.",Blockchain,Easy,06,Final,Unit 3
+281," Explain any 3 Design issues for Permissioned blockchains",Blockchain,Medium,06,Final,Unit 3
+282,"Explain State machine replication.",Blockchain,Hard,06,Final,Unit 3
+283," Explain Paxos — A distributed consensus algorithm.",Blockchain,Easy,06,Final,Unit 3
+284,"Explain RAFT consensus.",Blockchain,Medium,06,Final,Unit 3
+285,"Explain Byzantine general problem.",Blockchain,Hard,06,Final,Unit 3
+286,"Lamport-Shostak-Pease BFT Algorithm",Blockchain,Easy,06,Final,Unit 3
+287,"What the various steps of executing Smart Contract explain with suitable example?",Blockchain,Medium,06,Final,Unit 3
+288,"Write a difference between permission and permissionless Blockchain.",Blockchain,Hard,06,Final,Unit 3
+289,"What is Byzantine general problem and How Bitcoin Solves the Byzantine General’s Problem?Blockchain,Hard,06,Final,Unit 3
+
+290,"Explain Cross border payments application.",Blockchain,Easy,06,Final,Unit 4
+291,"Explain Know Your Customer (KYC) application",Blockchain,Medium,06,Final,Unit 4
+292,"Explain Food Security application.",Blockchain,Hard,06,Final,Unit 4
+293,"Explain We Trade –Trade Finance Network application.",Blockchain,Easy,06,Final,Unit 4
+294,"Explain Supply Chain Financing application",Blockchain,Medium,06,Final,Unit 4
+295,"How KYC on Blockchain can help?",Blockchain,Hard,06,Final,Unit 4
+296,"How Blockchain benefits food security in future?",Blockchain,Easy,06,Final,Unit 4
+297,"How does Digital Identity work today using Blockchain?",Blockchain,Medium,06,Final,Unit 4
+298,"What is KYC? Explain the Shared KYC model based on Blockchain?",Blockchain,Hard,06,Final,Unit 4
+299,"What is the blockchain mortgage process? Explain it with a suitable example. The advantages of blockchain in mortgages.",Blockchain,Easy,06,Final,Unit 4
+300,"What is Supply Chain Financing? Give an example with justification.",Blockchain,Medium,06,Final,Unit 4
+
+301,"Draw and explain the architecture of Hyperledger Fabric.",Blockchain,Easy,06,Final,Unit 5
+302,"Explain the procedures needed in creating a smart contract based on Ethereum.",Blockchain,Medium,06,Final,Unit 5
+303,"Explain the Ripple Protocol Consensus Algorithm (RPCA)",Blockchain,Hard,06,Final,Unit 5
+304,"Explain Hyperledger Fabric and how does it work?",Blockchain,Easy,06,Final,Unit 5
+305,"What are the benefits of Hyperledger Fabric?",Blockchain,Medium,06,Final,Unit 5
+306,"Explain writing smart contract using Ethereum ?",Blockchain,Hard,06,Final,Unit 5
+
+307,"Write a short note on nature of consumer behavior.",Consumer Behavior,Easy,06,Third,Unit 1
+308,"Explain the quantitative & qualitative approach.",Consumer Behavior,Medium,06,Third,Unit 1
+309,"Write the information about basics of consumer behavior.",Consumer Behavior,Hard,06,Third,Unit 1
+310,"What do you mean by consumer behavior? Explain the determinants or factors that influence consumer behavior.",Consumer Behavior,Easy,06,Third,Unit 1
+311,"Write a short note on nature and trend of consumer behavior.",Consumer Behavior,Medium,06,Third,Unit 1
+312,"Elaborate the various behavioral dimensions aspects of consumer behavior?",Consumer Behavior,Hard,06,Third,Unit 1
+313,"Define consumer behavior and describe the concept in detail in Indian context?",Consumer Behavior,Easy,06,Third,Unit 1
+314,"How do you understand by market segmentation, targeting and positioning?",Consumer Behavior,Medium,06,Third,Unit 1
+315,"Define consumer behavior and explain the concept in detail?",Consumer Behavior,Hard,06,Third,Unit 1
+316,"Explain market research and its importance to consumer behavior?",Consumer Behavior,Easy,06,Third,Unit 1
+317,"Describe market segmentation, targeting and positioning?",Consumer Behavior,Medium,06,Third,Unit 1
+
+318,"What are the various behavioral dimensions of consumer behavior?",Consumer Behavior,Easy,06,Third,Unit 2
+319,"Explain the consumer decision making process?",Consumer Behavior,Medium,06,Third,Unit 2
+320,"What are the bases for market segmentation?",Consumer Behavior,Hard,06,Third,Unit 2
+321,"Write a detail note on market research and its relevance to consumer behavior?",Consumer Behavior,Easy,06,Third,Unit 2
+322,"Describe the various bases of market segmentation?",Consumer Behavior,Medium,06,Third,Unit 2
+323,"Explain the challenges in consumer decision making process?",Consumer Behavior,Hard,06,Third,Unit 2
+324,"What is decision making? State the assumption of consumer decision.",Consumer Behavior,Easy,06,Third,Unit 2
+325,"Explain the different types of consumer groups.",Consumer Behavior,Medium,06,Third,Unit 2
+326,"Write the aspects of positioning and positioning strategies.",Consumer Behavior,Easy,06,Third,Unit 2
+327,"What are the market positioning and positioning strategies?",Consumer Behavior,Medium,06,Third,Unit 2
+328,"Explain the revenue and earnings per share (EPS) for the company’s worth.",Consumer Behavior,Hard,06,Third,Unit 2
+329,"What is market segmentation? Write the requirements for effective Segmentation.",Consumer Behavior,Medium,06,Third,Unit 2
+
+330,"Explain the Nicosia model of consumer behavior.",Consumer Behavior,Easy,06,Third,Unit 3
+331,"Explain the economic model of consumer behavior.",Consumer Behavior,Medium,06,Third,Unit 3
+332,"What do you mean by consumer decision making. Explain its process.",Consumer Behavior,Hard,06,Third,Unit 3
+333,"Explain the scope of consumer research.",Consumer Behavior,Easy,06,Third,Unit 3
+334,"What are the models adopted to study consumer behavior?",Consumer Behavior,Medium,06,Third,Unit 3
+335,"What are the various levels of consumer decision making in FMCG goods?",Consumer Behavior,Hard,06,Third,Unit 3
+336,"State the various cultural factors and its influences on an individual’s needs,wants and the behavior?",Consumer Behavior,Easy,06,Third,Unit 3
+337,"Explain various internal and external stimuli’s that trigger’s the customer needs?",Consumer Behavior,Medium,06,Third,Unit 3
+338,"What are the various levels of consumer decision making?',Consumer Behavior,Hard,06,Third,Unit 3
+
+339,"Explain sociological influences on consumer decision making?",Consumer Behavior,Easy,06,Third,Unit 4
+340,"Describe correlation between promotion strategies and consumer behavior with examples?",Consumer Behavior,Medium,06,Third,Unit 4
+341,"Interpersonal communication and its profound impact on consumer decision making. Explain?",Consumer Behavior,Hard,06,Third,Unit 4
+342,"Does interpersonal communication have profound impact on consumer decision making? Explain?",Consumer Behavior,Easy,06,Third,Unit 4
+343,"Write a note on consumer involvement.",Consumer Behavior,Medium,06,Third,Unit 4
+344,"Note on surveys and customer behavior data",Consumer Behavior,Hard,06,Third,Unit 4
+345,"Discuss the personal factors of consumer behavior.",Consumer Behavior,Easy,06,Third,Unit 4
+346,"Explain the different types of consumer groups.Consumer Behavior,Medium,06,Third,Unit 4
+
+347,"State differences between industrial market and a consumer market with example",Consumer Behavior,Easy,06,Third,Unit 5
+348,"Explain the Howard Sheth Model of buying behavior",Consumer Behavior,Medium,06,Third,Unit 5
+349,"What do you mean by the term consumer innovator?",Consumer Behavior,Hard,06,Third,Unit 5
+350,"Consumer innovators are the real indicators of consumer behaviour? Describe in detail",Consumer Behavior,Easy,06,Third,Unit 5
+351,"What are the advantages of consumer research?",Consumer Behavior,Medium,06,Third,Unit 5
+352,"Write the difference between organizational & consumer buying.",Consumer Behavior,Hard,06,Third,Unit 5
+353,"Discuss the various marketing strategies?",Consumer Behavior,Easy,06,Third,Unit 5
+354,"Discuss the major factors that influence consumer behavior.",Consumer Behavior,Medium,06,Third,Unit 5
+355,"Write the difference between organizational & consumer buying.",Consumer Behavior,Hard,06,Third,Unit 5
+356,"Discuss the objectives and importance of consumer behavior.",Consumer Behavior,Easy,06,Third,Unit 5
+
+
+357,"What is IoT? Explain its characteristics and application of IoT.",IOT,Easy,06,Third,Unit 1
+358,"Explain with neat diagram different IoT communication models.",IOT,Medium,06,Third,Unit 1
+359,"What are the biggest challenges for IoT adoption.",IOT,Hard,06,Third,Unit 1
+360,"Explain with neat diagram different IoT communication models.",IOT,Easy,06,Third,Unit 1
+361,"Write an equation of the “Internet” of “Things”. And explain the purpose of IOT.",IOT,Medium,06,Third,Unit 1
+362,"Explain one M2M IOT Standardized Architecture With a neat Diagram?",IOT,Hard,06,Third,Unit 1
+
+363,"Explain communication criteria for an IoT platforms.",IOT,Easy,06,Third,Unit 2
+364,"What is a sensor? Explain different types of sensors.",IOT,Medium,06,Third,Unit 2
+365,"Explain leading types of IoT wireless technologies.",IOT,Hard,06,Third,Unit 2
+366,"What is meaning of Actuator? Explain any 6 types of actuators in detail.",IOT,Easy,06,Third,Unit 2
+367,"Write a short note on the Transport Layer.",IOT,Medium,06,Third,Unit 2
+368,"Explain the Topology to build an IoT network. and What are the disadvantages of wireless-based networks?",IOT,Hard,06,Third,Unit 2
+
+369,"Explain the need of optimization in IoT.",IOT,Easy,06,Third,Unit 3
+370,"Describe Message Queuing Telemetry Transport Protocol.",IOT,Medium,06,Third,Unit 3
+371,"Explain supervisory control and data acquisition.",IOT,Hard,06,Third,Unit 3
+372,"Explain IOT reference model.",IOT,Easy,06,Third,Unit 3
+373,"Explain the terms in brief Serial Communications and IPv6 Adaptation Layer.",IOT,Medium,06,Third,Unit 3
+374,"Explain Optimizing IP for IoT in brief with the help of a neat and labeled diagram.",IOT,Hard,06,Third,Unit 3
+
+375,"What is machine learning? Explain types of machine learning categories.",IOT,Easy,06,Third,Unit 4
+376,"Explain Big Data Analytics Tools and Technology.",IOT,Medium,06,Third,Unit 4
+377,"Explain Massively Parallel Processing Shared-Nothing Architecture.",IOT,Hard,06,Third,Unit 4
+378,"Write a short note on Neural networks.",IOT,Easy,06,Third,Unit 4
+379,"Why edge analytics is preferred in real time analysis over big data?",IOT,Medium,06,Third,Unit 4
+
+380,"Explain smart city IoT architecture with a neat diagram.",IOT,Easy,06,Third,Unit 5
+381,"Explain smart city security architecture with a neat diagram.",IOT,Medium,06,Third,Unit 5
+382,"Write a short note on smart city use-case examples.",IOT,Hard,06,Third,Unit 5
+383,"Explain PIN diagram Raspberry Pi 3.",IOT,Easy,06,Third,Unit 5
+384,"Write and explain code to blink LED using python and Raspberry Pi.",IOT,Medium,06,Third,Unit 5
+385,"Explain Arduino hardware with the help of a diagram.",IOT,Hard,06,Third,Unit 5
+
+
+386,"Describe social issues with computer network?",Computer Networks,Easy,06,Third,Unit 1
+387,"Give comparison between OSI reference model and TCP/IP model?",Computer Networks,Medium,06,Third,Unit 1
+388,"Compare connectionless and connection oriented protocol?",Computer Networks,Hard,06,Third,Unit 1
+389,"What is a computer network? Enlist four uses of computer network.",Computer Networks,Easy,06,Third,Unit 1
+390,"Explain network software with respect to protocol hierarchy and design issues for layer.",Computer Networks,Medium,06,Third,Unit 1
+391,"State and explain the functionalities of all layers in ISO-OSI Model.",Computer Networks,Hard,06,Third,Unit 1
+392,"Why is network standardization crucial for global communication? Identify key organizations involved in the standardization process and their roles.",Computer Networks,Easy,06,Third,Unit 1
+393,"Match the following to one or more layers of the OSI model:
+    a. Format and code conversion services
+    b. Establishes, manages, and terminates sessions
+    c. Ensures reliable transmission of data
+    d. Log-in and log-out procedures
+    e. Provides independence from differences in data representation",Computer Networks,Medium,06,Third,Unit 1
+394,"What is the principal difference between connectionless communication and connection-oriented communication? Explain in brief.",Computer Networks,Easy,06,Third,Unit 1
+395,"What is the length of a bit in a channel with a propagation speed of 2x 108 m/s if the channel bandwidth is
+     i. 1Mbps?
+    ii. 10 Mbps?
+    iii. 100 Mbps?",Computer Networks,Easy,06,Third,Unit 1
+396,"Explain Network software in detail?",Computer Networks,Hard,06,Third,Unit 1
+397,"Write short note on various high speed network Technology",Computer Networks,Medium,06,Third,Unit 1
+398,"Explain Type of computer network",Computer Networks,Easy,06,Third,Unit 1
+
+399,"Discuss Wi-MAX (802.16) and Bluetooth (802.15.1) technology application in real life?",Computer Networks,Easy,06,Third,Unit 2
+400,"Compare token ring and FDDI with their frame format?",Computer Networks,Medium,06,Third,Unit 2
+401,"Describe in brief 802.11 architecture and protocol stack?",Computer Networks,Hard,06,Third,Unit 2
+402,"Write a short note on i)Bluetooth Architecture ii)RFID Technology",Computer Networks,Easy,06,Third,Unit 2
+403,"State and explain Bluetooth Architecture",Computer Networks,Medium,06,Third,Unit 2
+404,"Explain the frame structure of Ethernet 802.3 in detail.",Computer Networks,Hard,06,Third,Unit 2
+405,"Explain the Wi-MAX in detail, and how does it differ from Wi-Fi?",Computer Networks,Easy,06,Third,Unit 2
+406,"Describe the main components of an RFID system and their functions.",Computer Networks,Medium,06,Third,Unit 2
+407,"What is X.25? Explain X.25 layers and frame structure.",Computer Networks,Hard,06,Third,Unit 2
+408,"Explain frame format of Ethernet IEEE 802.3",Computer Networks,Easy,06,Third,Unit 2
+409,"Explain ATM layers and their functions. How is an ATM virtual connection identified? Explain in brief.",Computer Networks,Medium,06,Third,Unit 2
+410,"Explain in brief WiFi 802.11. Also explain working principle of WiFi 802.11",Computer Networks,Hard,06,Third,Unit 2
+411,"Draw and Explain Ethernet frame format.",Computer Networks,Easy,06,Third,Unit 2
+
+412,"Illustrate byte count and bit stuffing framing method?
+    A (7,4) hamming code is received as 1110000. Determine the correct code when even parity is considered.?",Computer Networks,Easy,06,Third,Unit 3
+413,"Justify how CRC is a stronger kind of error-detecting code.
+     msg – 1 1 0 1 1 0 1 0 0 0 0 gen- 1 0 1 0 1 , Calculate CRC for the given data input?",Computer Networks,Easy,06,Third,Unit 3
+414,"What is framing in network? Explain byte stuffing framing techniques with suitable example.",Computer Networks,Medium,06,Third,Unit 3
+415,"Illustrate the service provided to the network layer by the data link layer.",Computer Networks,Medium,06,Third,Unit 3
+416,"Describe Error Detection and Correction.",Computer Networks,Easy,06,Third,Unit 3
+417,"Explain the concept of framing in the Data Link Layer. Describe the various methods of framing used in the Data Link Layer.",Computer Networks,Hard,06,Third,Unit 3
+418,"Explain flow control in the Data Link Layer. What are the challenges associated with implementing flow control in the Data Link Layer?",Computer Networks,Hard,06,Third,Unit 3
+419,"What are error-correcting codes? How do they differ from error-detecting codes?",Computer Networks,Medium,06,Third,Unit 3
+420,"The following character encoding is used in a datalink protocol: A: 01000111 B: 11100011 FLAG:01111110 ESC: 11100000",Computer Networks,Medium,06,Third,Unit 3
+421,"Show the bit sequence transmitted (in binary) for the four-character frame A B ESC FLAG when Flag bytes with byte stuffing farming methods isused.",Computer Networks,Hard,06,Third,Unit 3
+422,"Calculate CRC code for Message “10001010111101010110011” if divisor polynomial is X3+ X2 +1",Computer Networks,Easy,06,Third,Unit 3
+423,"Explain Go-back-N ARQ. If a sender A sent 8 frames , it receives ACK with ACK number 6 , if A is using Go-back –N ARQ how many frames has to be retransmitted. Explain with diagram",Computer Networks,Hard,06,Third,Unit 3
+424,"A 7 bit Hamming code received as 1011011. Assume even parity and state whether the received code is correct or wrong, if wrong locate the bit in error?",Computer Networks,Medium,06,Third,Unit 3
+425,"Consider the data unit to be transmitted is-10011001111000100010010010000100 Consider 8 bit checksum is used..",Computer Networks,Hard,06,Third,Unit 3
+426,"What is hamming distance? Explain with example",Computer Networks,Easy,06,Third,Unit 3
+
+427,"Compare IPv4 and IPv6 address formats?",Computer Networks,Easy,06,Third,Unit 4
+428,"Describe the following congestion control mechanisms with suitable example. 1. Traffic Throttling 2. Load Shedding",Computer Networks,Medium,06,Third,Unit 4
+429,"Illustrate with example leaky bucket and token bucket algorithms for traffic shaping?",Computer Networks,Hard,06,Third,Unit 4
+430,"Illustrate the service provided to the network layer by the data link layer.",Computer Networks,Easy,06,Third,Unit 4
+431,"What is Quality of Service? Mention various factors of QOS.",Computer Networks,Medium,06,Third,Unit 4
+432,"Explain the structure of the IPv6 address. Discuss the difference between IPv4 and IPv6.",Computer Networks,Hard,06,Third,Unit 4
+433,"Explain the Distance Vector Routing Algorithm in detail.",Computer Networks,Easy,06,Third,Unit 4
+434,"What is network congestion? Discuss the concept of load shading in congestion prevention.",Computer Networks,Medium,06,Third,Unit 4
+435,"Consider an IP packet with a length of 4,500 bytes that includes a 20-byteIPv4 header and a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment is 0. What is the fragmentation offset value stored in the third fragment? what are the total number of fragmens ?",Computer Networks,Hard,06,Third,Unit 4
+436,"The following is a dump of a UDP header in hexadecimal format.0045DE00FE200058
+    a. What is the source port number?
+    b. What is the destination port number?
+    c. What is the total length of the user datagram?
+    d. What is the length of the data?
+    e. Is the packet directed from a client to a server or vice versa?
+    f. What is the client process?",Computer Networks,Easy,06,Third,Unit 4
+437,"What is count-to-Infinity problem in distance vector routing? How it can be solved? Explain with example.",Computer Networks,Medium,06,Third,Unit 4
+438,"Draw and explain IV4 Header format",Computer Networks,Easy,06,Third,Unit 4
+439,"Write Berkeley Socket primitive",Computer Networks,Hard,06,Third,Unit 4
+440,"From IP Address 222.151.210.34 find out its class , Network ID , Host ID",Computer Networks,Medium,06,Third,Unit 4
+
+441,"Describe five tuple DNS record with an example?",Computer Networks,Easy,06,Third,Unit 5
+442,"Compare SMTP and POP Protocols?",Computer Networks,Medium,06,Third,Unit 5
+443,"Illustrate the network security essentials Confidentiality, Authentication, Non repudiation and Integrity control for considering the E-commerce website?",Computer Networks,Hard,06,Third,Unit 5
+444,"What is cryptography? Explain the working principle of public key cryptography with suitable diagram.",Computer Networks,Easy,06,Third,Unit 5
+445,"Write a short note on 1)DNS 2) DDNS",Computer Networks,Medium,06,Third,Unit 5
+446,"Compare FTP and TFTP protocols.",Computer Networks,Hard,06,Third,Unit 5
+447",Write a short note on: i) DNS ii) HTTP",Computer Networks,Easy,06,Third,Unit 5
+448,"Explain the purpose of firewalls in network security. What factors should be considered when designing a firewall policy?",Computer Networks,Medium,06,Third,Unit 5
+449,"Describe the principles of public key and private key cryptography. How they differ from each other?",Computer Networks,06,Hard,Third,Unit 5
+450,"Explain FTP protocol and FTP connections.",Computer Networks,Easy,06,Third,Unit 5
+451,"Can a machine with a single DNS name have multiple IP addresses? How could this occur.",Computer Networks,Medium,06,Third,Unit 5
+452,"Explain three types of Firewalls.",Computer Networks,Hard,06,Third,Unit 5
+453,"What do you mean of digital Signature? Define the following Term.
+   1)Symmetric and Asymmetric key cryptography
+   2)Public key
+   3)private key
+   4)Authentication
+   5)Integrity",Computer Networks,Medium,06,Third,Unit 5
+454,"Explain SMTP &amp; POP Protocol",Computer Networks,Hard,06,Third,Unit 5
+455,"Difference between persistence and non- persistence HTTP protocol",Computer Networks,Easy,06,Third,Unit 5
+
+
+456,"Demonstrate your understanding of umbrella activities of a Software process",Software Engineering,Easy,06,Third,Unit 1
+457,"List and describe qualities of good software",Software Engineering,Medium,06,Third,Unit 1
+458,"With neat sketch explain Verification and Validation model used for Software Engineering",Software Engineering,Hard,06,Third,Unit 1
+459,"What is Software Engineering Ethics? Explain ACM/IEEE code of ethics.",Software Engineering,Easy,06,Third,Unit 1
+460,"Why requirements engineering considered as a critical stage of the software process? Discuss the three main activities involved in the requirements engineering process.",Software Engineering,Medium,06,Third,Unit 1
+461,"Explain software process activities.",Software Engineering,Hard,06,Third,Unit 1
+462,"What are the four important attributes that all professional software should have? state and explain.",Software Engineering,Easy,06,Third,Unit 1
+463,"Explain software Process activities.",Software Engineering,Medium,06,Third,Unit 1
+464,"Explain the software Engineering code of ethics and professional practice",Software Engineering,Hard,06,Third,Unit 1
+
+465,"Discuss the Extreme Programming process",Software Engineering,Easy,06,Third,Unit 2
+466,"What is agile Software Development? Give its advantages",Software Engineering,Medium,06,Third,Unit 2
+467,"Compare Functional and Non-Functional Requirements with respect to Software Engineering.",Software Engineering,Hard,06,Third,Unit 2
+468,"Explain refactoring and pair programming as agile development techniques.",Software Engineering,Easy,06,Third,Unit 2
+469,"Discuss Functional and Non-Functional Requirements",Software Engineering,Medium,06,Third,Unit 2
+470,"Explain requirements validation software process.",Software Engineering,Hard,06,Third,Unit 2
+471,"Compare Plan driven approach and Agile methods.",Software Engineering,Easy,06,Third,Unit 2
+472,"An automated ticket-issuing system sells rail tickets. Users select their destination and input a credit card and a personal identification number. The rail ticket is issued and their credit card account charged. When the user presses the start button, a menu display of potential destinations is activated,along with a message to the user to select a destination. Once a destination has been selected, users are requested to input their credit card. Its validity is checked and the user is then requested to input a personal identifier. When the credit transaction has been validated, the ticket is issued. For above case study find functional and non-functional requirements.",Software Engineering,Medium,06,Third,Unit 2
+473,"What is requirements elicitation? explain requirement elicitation and analysis process in brief",Software Engineering,Hard,06,Third,Unit 2
+
+474,"What is the purpose of System Modelling? Explain different types of System Models in brief.",Software Engineering,Easy,06,Third,Unit 3
+475,"What are Architectural Patterns in Software Engineering? How do the Architectural Patterns contribute to system design?",Software Engineering,Medium,06,Third,Unit 3
+476,"Explain in brief i) Context Models and ii) Interaction models",Software Engineering,Hard,06,Third,Unit 3
+477,"What is System Modelling? Explain different types of System Models in brief.",Software Engineering,Medium,06,Third,Unit 3
+478,"What are Architectural Patterns? Explain Layered Architecture Pattern with suitable diagram.",Software Engineering,Hard,06,Third,Unit 3
+479,"Explain application architecture for Transaction Processing System with suitable diagram.",Software Engineering,Easy,06,Third,Unit 3
+480,"What is system model? Explain types of system models in brief",Software Engineering,Medium,06,Third,Unit 3
+481,"What are Architectural views?Explain 4 + 1 view model of software architecture",Software Engineering,Hard,06,Third,Unit 3
+482,"What are the Architectural patterns? Explain Model view controller (MVC) pattern",Software Engineering,Easy,06,Third,Unit 3
+
+483,"Draw sequence diagram and use case diagram for ATM.",Software Engineering,Easy,06,Third,Unit 4
+484,"Draw various symbols used for drawing UML diagrams",Software Engineering,Medium,06,Third,Unit 4
+485,"Discuss Object Oriented Design using UML in brief.",Software Engineering,Hard,06,Third,Unit 4
+486,"Write a note on Open-Source Development and Open-Source Licensing.",Software Engineering,Easy,06,Third,Unit 4
+487,"Discuss Object Oriented Design using UML in brief.",Software Engineering,Medium,06,Third,Unit 4
+488,"Compare Software Inspection and Testing.",Software Engineering,Hard,06,Third,Unit 4
+489,"What is software reuse? Explain software reuse levels.",Software Engineering,Easy,06,Third,Unit 4
+490,"A group diary and time management system is intended to support the timetabling of meetings and appointments across a group of co-workers. When an appointment is to be made that involves a number of people, the system finds a common slot in each of their diaries and arranges the appointment for that time. If no common slots are available, it interacts with the user to rearrange his or her personal diary to make room for the appointment.For above case study Draw the use-case diagram",Software Engineering,Medium,06,Third,Unit 4
+
+491,"Compare functional testing and nonfunctional testing",Software Engineering,Easy,06,Third,Unit 5
+492,"Explain test driven development with neat sketch.",Software Engineering,Medium,06,Third,Unit 5
+493,"In brief describe a) Usability Testing b) Unit Testing c) Acceptance Testing.",Software Engineering,Hard,06,Third,Unit 5
+494,"Discuss Component testing in detail",Software Engineering,Easy,06,Third,Unit 5
+495,"What is Test-driven development (TDD)? Explain TDD process activities.",Software Engineering,Medium,06,Third,Unit 5
+496,"Write a note on User Testing",Software Engineering,Hard,06,Third,Unit 5
+497,"Compare software inspection and testing",Software Engineering,Easy,06,Third,Unit 5
+498,"What is Test-driven development (TDD)? Explain TDD process activities",Software Engineering,Medium,06,Third,Unit 5
+499,"Explain principal dependability properties in brief",Software Engineering,Hard,06,Third,Unit 5
+
+500,"Define the front-end and back-end of a compiler. Which phases are typically included in each, and what are their primary responsibilities?",Compiler Design,Easy,06,Third,Unit 1
+501,"What is lexical analysis? Discuss its role in the compilation process, and explain how it converts the source code into tokens.",Compiler Design,Medium,06,Third,Unit 1
+502,"What are parser generators, such as Yacc or Bison? Explain how they are used to generate parsers and the benefits they provide.",Compiler Design,Hard,06,Third,Unit 1
+503,"Explain the stages involved in analyzing a source program. What are the key activities performed during the lexical, syntactic, and semantic analysis stages?",Compiler Design,Easy,06,Third,Unit 1
+504,"What is code optimization? Describe its role in the compilation process and provide examples of common optimization techniques.",Compiler Design,Medium,06,Third,Unit 1
+505,"Describe the middle-end of a compiler. What is its function, and why is it important to separate optimization from other phases?",Compiler Design,Hard,06,Third,Unit 1
+506,"Draw a neat diagram and explain different phases of compiler. Differentiate between Interpreter, Compiler and Hybrid compiler.",Compiler Design,Easy,06,Third,Unit 1
+507,"Define token, pattern, and lexeme with suitable examples. Find tokens, pattern and lexemes forthe following C- program. Give reasonable at-tribute values for the tokens.
+    int main()
+    {
+    int a = 10, b = 20;
+    printf (“Sum is : %d”, a+b);
+    return (0)
+    }",Compiler Design,Medium,06,Third,Unit 1
+508,"i) Explain regular expression and regular definition with example.
+    ii) Write regular definitions for the following languages:
+     1. All strings of lowercase letters that contain the five vowels in order.
+     2. All strings of lowercase letters in which the letters are in ascending lexicographic order.",Compiler Design,Hard,06,Third,Unit 1
+509,"What do you understand by "Input Buffering"? Explain 'Buffer pairs' and sentinels.",Compiler Design,Medium,06,Third,Unit 1
+510,"Explain the various phases of a compiler and their roles in the compilation process. Illustrate the flow of information between these phases.",Compiler Design,Easy,06,Third,Unit 1
+511,"Discuss the lexical analysis phase of a compiler. Explain the role of the lexical analyzer and the construction of tokens from the input source code.",Compiler Design,Medium,06,Third,Unit 1
+512,"What is syntax analysis? Describe the role of a parser in this phase. Differentiate between top-down and bottom-up parsing techniques, providing examples for each.",Compiler Design,Hard,06,Third,Unit 1
+
+
+513,"Explain how regular expressions are used to specify tokens. Give an examples of regular expressions for different types of tokens, including keywords, identifiers, numbers, and string literals",Compiler Design,Easy,06,Third,Unit 2
+514,"Describe the typical structure of a lexical specification using a language like Lex. What are the main sections of such a specification?",Compiler Design,Medium,06,Third,Unit 2
+515,"Explain the workflow of a lexical analyzer generator from input specification to the generation of the lexical analyzer code. Provide a step-by-step description of the process.",Compiler Design,Hard,06,Third,Unit 2
+516,"Discuss techniques for handling lexical errors in a lexical specification. How can a lexical analyzer be designed to report and recover from lexical errors?",Compiler Design,Easy,06,Third,Unit 2
+517,"State and explain the main components of a lexical analyzer generator and their roles in generating a lexical analyzer.",Compiler Design,Medium,06,Third,Unit 2
+518,"Discuss optimization techniques that can be employed by lexical analyzer generators to improve the performance of the generated lexical analyzer.",Compiler Design,Hard,06,Third,Unit 2
+519,"Explain the two buffer input scheme for scanning the source program in lexical analyzer? How the use of sentinels can improve its performance?",Compiler Design,Medium,06,Third,Unit 2
+520,"i) Explain the role of finite automata in lexical analyzer and differentiate between NFA and DFA.
+     ii) Convert the following regular expression to NFA using Thompson Construction algorithm.
+     (a|b*ab)*",Compiler Design,Medium,06,Third,Unit 2
+521,"Convert the following NFA to DFA using subset construction algorithm.
+    ((01| 0) 1*)*",Compiler Design,Hard,06,Third,Unit 2
+522,"What is a finite automata? Construct transition diagram of a DFA for the string (a+b)* .",Compiler Design,Easy,06,Third,Unit 2
+523,"What is Lex? Explain.",Compiler Design,Easy,06,Third,Unit 2
+524,"Give the formal definition of Context-Free Grammar.",Compiler Design,Medium,06,Third,Unit 2
+525,"Explain the concept of a symbol table in compiler design. Discuss its importance and the information it stores during the compilation process.",Compiler Design,Easy,06,Third,Unit 2
+526,"Describe the different types of errors that can occur during compilation. Explain the difference between lexical, syntax, and semantic errors. Provide examples foreach.",Compiler Design,Medium,06,Third,Unit 2
+527,"Explain constructing syntax trees for simple expressions involving only binary operators + and -. State the use of Leaf and Node in this syntax tree.",Compiler Design,Hard,06,Third,Unit 2
+
+
+528,"Write a context-free grammar for simple arithmetic expressions involving addition, subtraction, multiplication, and division. Ensure your grammar is unambiguous.",Compiler Design,Easy,06,Third,Unit 3
+529,"What is bottom-up parsing? Describe the main techniques used in bottom-up parsing, including shift-reduce parsing.",Compiler Design,Medium,06,Third,Unit 3
+530,"Construct an operator-precedence table for a given set of operators and their precedence rules. Demonstrate how this table is used to parse an arithmetic expression.",Compiler Design,Hard,06,Third,Unit 3
+531,"What are parser generators? Describe their role in compiler construction and how they aid in the development of parsers.",Compiler Design,Easy,06,Third,Unit 3
+532,"Discuss the advantages and limitations of using parser generators in compiler design. State the scenarios where using a parser generator would be particularly beneficial.",Compiler Design,Medium,06,Third,Unit 3
+533,"What are LR parsers? Describe the different variants of LR parsers, including SLR, LALR, and Canonical LR.",Compiler Design,Hard,06,Third,Unit 3
+534,"i) What is left recursion and left factoring?
+     ii) Consider the CFG SSS+| SS* | a
+     a) Left factor this grammar.
+     b) Eliminate the left recursion from the original grammar.
+     c) Is the resulting grammar suitable for top-down parsing?",Compiler Design,Easy,06,Third,Unit 3
+534,"What is the difference between recursive–descent parsing and predictive parsing?Draw and explain the model of non recursive predictive parser.",Compiler Design,Medium,06,Third,Unit 3
+535,"What is LL(1) grammar? Construct a LL(1) parsing table for the following grammar. Test whether following grammar isLL(1).
+     S → aAB|bA|є
+     A → aAb |є
+     B → bB |c",Compiler Design,Hard,06,Third,Unit 3
+536,"What is Parse Tree? Explain with example.",Compiler Design,Easy,06,Third,Unit 3
+537,"What is LL(1) Grammar?",Compiler Design,Medium,06,Third,Unit 3
+538,"Explain Bottom-Up parsing.",Compiler Design,Hard,06,Third,Unit 3
+539,"Discuss the role of semantic analysis in a compiler. Explain how type checking and type inference are performed during this phase. Illustrate with suitable examples.",Compiler Design,Easy,06,Third,Unit 3
+540,"Explain the intermediate code generation phase of a compiler. Describe the different intermediate representations used and their advantages and disadvantages.",Compiler Design,Medium,06,Third,Unit 3
+541,"What is optimization in the context of a compiler? Discuss the importance of optimization and provide examples of common optimization techniques used in compilers.",Compiler Design,Hard,06,Third,Unit 3
+
+
+542,"Explain how SDT can be used to generate intermediate code for a simple programming language.",Compiler Design,Easy,06,Third,Unit 4
+543,"Explain the concept of top-down parsing. How does it differ from bottom-up parsing?",Compiler Design,Medium,06,Third,Unit 4
+544,"Given the following grammar for arithmetic expressions:
+     E → E + T, E → T, T → T * F, T → F, F → ( E ), F → id
+     Write a syntax-directed translation scheme that generates three-address code for this grammar. Explain how the translation scheme works for each production rule.",Compiler Design,Hard,06,Third,Unit 4
+545,"Describe the purpose and benefits of generating intermediate code in the compilation process. How does intermediate code improve the efficiency and portability of compilers?",Compiler Design,Easy,06,Third,Unit 4
+546,"How is intermediate code generated for control flow constructs such as if-else statements and while loops? Give an example of each, showing the source code and the corresponding intermediate code.",Compiler Design,Medium,06,Third,Unit 4
+547,"What are the common techniques for optimizing intermediate code? State the examples to illustrate how these optimizations can improve the performance of the generated code.",Compiler Design,Hard,06,Third,Unit 4
+548,"Explain stack implementation of shift reduce parsing with their four possible actions.Consider the following grammar
+     S → TL
+     T → int | float
+     L → L,id | id
+     Parse the input string int id, id using shift – reduce parser.",Compiler Design,Easy,06,Third,Unit 4
+549,"i) Differentiate between LR(0) and LR(1) grammar with suitable example.
+     ii)What is handle? Consider the following grammar and show the handle of each right sentential form for the string ( a ,( a , a )).
+      S→ (L)|a
+      L → L ,S |S",Compiler Design,Medium,06,Third,Unit 4
+550,"Show that following grammar is LL(1) but not SLR(1).
+     S→ AaAb | BbBa
+     A →є
+     B→є",Compiler Design,Hard,06,Third,Unit 4
+551,"What is Syntax-Directed Definition?",Compiler Design,Easy,06,Third,Unit 4
+552,"Explain type checking in detail.",Compiler Design,Medium,06,Third,Unit 4
+553,"What is Symbol Table? Explain the organization of symbol table in detail.",Compiler Design,Hard,06,Third,Unit 4
+554,"Describe the code generation phase of a compiler. Explain the different code generation techniques, such as the use of registers and stack allocation.",Compiler Design,Easy,06,Third,Unit 4
+555,"What are the different types of code optimization techniques? Explain loop optimization and its benefits in detail. Provide examples to illustrate your explanation",Compiler Design,Medium,06,Third,Unit 4
+556,"Construct a Predictive parsing table for the Grammar
+    E ->E+T | T, T->T*F | F, F->(E) | id.",Compiler Design,Hard,06,Third,Unit 4
+
+557,"Explain the problem of instruction selection in code generation. How does the choice of target machine instructions impact the performance of the generated code?",Compiler Design,Easy,06,Third,Unit 5
+558,"What is a basic block in the context of a compiler? Describe the process of constructing basic blocks from a given intermediate code",Compiler Design,Medium,06,Third,Unit 5
+559,"Describe the algorithm for calculating next-use information for a sequence of intermediate code.",Compiler Design,Hard,06,Third,Unit 5
+560,"What is instruction scheduling in the context of code generation? Why is it important for improving the performance of the generated code?",Compiler Design,Easy,06,Third,Unit 5
+561,"Discuss the advantages of using DAGs for representing basic blocks in compiler design. How do DAGs help in optimization and code generation?",Compiler Design,Medium,06,Third,Unit 5
+562,"What are the common strategies for register allocation, and how do they affect the efficiency of the generated code?",Compiler Design,Hard,06,Third,Unit 5
+563,"List the issues in designing code generator. Generate code for the following three-address statements assuming all variables are stored in memory locations.
+    x = b * c
+    y = a + x",Compiler Design,Medium,06,Third,Unit 5
+564,"Define the DAG representation of basic blocks.",Compiler Design,Easy,06,Third,Unit 5
+565,"Explain the various storage allocation strategies?",Compiler Design,Medium,06,Third,Unit 5
+567,"What is syntax directed translation in compiler design?",Compiler Design,Hard,06,Third,Unit 5
+568,"Explain the concept of runtime environments in a compiler. Discuss the stack allocation and heap allocation strategies used to manage memory during program execution.",Compiler Design,Easy,06,Third,Unit 5
+569,"Discuss the concept of code generation for control flow statements in a compiler.",Compiler Design,Medium,06,Third,Unit 5
+570,"Explain how the assignment statement “position = initial + rate * 60” is grouped into the lexemes and mapped into the tokens passed on the syntax analyzer.",Compiler Design,Hard,06,Third,Unit 5
+
+571,"Define machine learning. Explain its common areas of applications.",Machine Learning,Easy,06,Third,Unit 1
+572,"Describe working of decision tree with suitable example.",Machine Learning,Medium,06,Third,Unit 1
+573,"State the purpose of confusion metrics. Elaborate various terms associated with it.",Machine Learning,Hard,06,Third,Unit 1
+574,"Difference between Supervised and Unsupervised Machine Learning.",Machine Learning,Easy,06,Third,Unit 1
+575,"Explain the Types of Machine Learning.",Machine Learning,Easy,06,Third,Unit 1
+576,"Explain the Unsupervised Machine Learning.",Machine Learning,Easy,06,Third,Unit 1
+577,"Explain the Supervised Machine Learning.",Machine Learning,Easy,06,Third,Unit 1
+
+
+578,"State Bayestheorem. Demonstrateit with suitable example.",Machine Learning,Easy,06,Third,Unit 2
+579,"With respect to SVM explain the terms: 1. Hyperplane 2. Maximum Margin Hyperplane (MMH) 3. Support Vector.",Machine Learning,Medium,06,Third,Unit 2
+580,"Differentiate between linear and non-linear SVM.",Machine Learning,Hard,06,Third,Unit 2
+581,"How Does SVM Works?",Machine Learning,Easy,06,Third,Unit 2
+582,"What Logistic Regression? Difference between Logistic Regression and Linear Regression.",Machine Learning,Medium,06,Third,Unit 2
+
+
+583,"Compare between Biological Neural Network (BNN) and Artificial Neural Network (ANN).",Machine Learning,Easy,06,Third,Unit 3
+584,"Explain reinforcement learning in Artificial Neural Network (ANN).",Machine Learning,Medium,06,Third,Unit 3
+585,"Describe feedforward and feedback neural network with proper diagram.",Machine Learning,Hard,06,Third,Unit 3
+586,"Explain the concept of perceptron with neat diagram.",Machine Learning,Easy,06,Third,Unit 3
+587,"What is Back propagation?",Machine Learning,Medium,06,Third,Unit 3
+588,"Explain how to work Multilayer Network.",Machine Learning,Hard,06,Third,Unit 3
+
+
+589,"Explain concept of VC dimensions with example.",Machine Learning,Easy,06,Third,Unit 4
+590,"Discuss Ensembled Learning. State applications of ensembled learning. ",Machine Learning,Medium,06,Third,Unit 4
+591,"Describe terms: Bagging, Boosting and Stacking.",Machine Learning,Hard,06,Third,Unit 4
+592,"What PAC Learning Model? Explain the sample Complexity for Finite hypothises spaces",Machine Learning,Easy,06,Third,Unit 4
+593,"Define and Explain "Shattering a set of instances with suitable Example.",Machine Learning,Medium,06,Third,Unit 4
+
+594,"Explain clustering with example. State need of clustering.",Machine Learning,Easy,06,Third,Unit 5
+595,"State the working of K-means clustering algorithm.",Machine Learning,Medium,06,Third,Unit 5
+596,"Differentiate between Agglomerative and Divisive hierarchical clustering.",Machine Learning,Hard,06,Third,Unit 5
+
+
+597,"What is Competence? Explain the concept of communicative competence.",Business Communication,Easy,06,Third,Unit 1
+598,"Explain how different process of business communication has certain other characteristics.",Business Communication,Medium,06,Third,Unit 1
+599,"Explain different types of elements in business communication.",Business Communication,Hard,06,Third,Unit 1
+600,"Explain the characteristics of Business Communication in detail.",Business Communication,Easy,06,Third,Unit 1
+601,"Define Communicative Competence and state characteristics of competent communicator.",Business Communication,Medium,06,Third,Unit 1
+602,"What is Business Communication? Discuss the process of communication in detail.",Business Communication,Easy,06,Third,Unit 1
+603,"Describe the characteristics of competent communicators.",Business Communication,Medium,06,Third,Unit 1
+604,"What are the main objectives of Business Communication? Explain in brief.",Business Communication,Hard,06,Third,Unit 1
+605,"Describe the characteristics of competent communicators.",Business Communication,Medium,06,Third,Unit 1
+
+
+606,"What do you mean by communication? Explain types of communication done in business world.",Business Communication,Easy,06,Third,Unit 2
+607,"What is Intercultural communication? What is the importance’s of intercultural communication.",Business Communication,Medium,06,Third,Unit 2
+608,"Write a short note on Thoughts & Speech.",Business Communication,Easy,06,Third,Unit 2
+609,"Explain the importance of Nonverbal communication in Business communication.",Business Communication,Easy,06,Third,Unit 2
+610,"What is intercultural Communication? State its importance in business communication.",Business Communication,Medium,06,Third,Unit 2
+611,"Explain the relationship between thought and speech.",Business Communication,Easy,06,Third,Unit 2
+612,"What are the importance of non-verbal communication? Explain in brief.",Business Communication,Easy,06,Third,Unit 2
+613,"Define Culture. Discuss in brief the barriers for intercultural communication.",Business Communication,Medium,06,Third,Unit 2
+614,"What is translation and explain in brief the problems that may need to face translation process?",Business Communication,Hard,06,Third,Unit 2
+
+
+615,"What do you mean by Barriers? Explain different types of barriers in communication.",Business Communication,Easy,06,Third,Unit 3
+616,"Explain different effective listening techniques used in business communication.",Business Communication,Medium,06,Third,Unit 3
+617,"Explain different communication rules adapted in Business world?",Business Communication,Hard,06,Third,Unit 3
+618,"Explain the types of barriers of communication in detail.",Business Communication,Easy,06,Third,Unit 3
+619,"Comment how listening skill proves to be beneficial in business communication.",Business Communication,Medium,06,Third,Unit 3
+620,"Explain the types of communication style.",Business Communication,Hard,06,Third,Unit 3
+621,"What do you mean by Barriers to Communication? Discuss the various steps to overcome the barriers to communication.",Business Communication,Easy,06,Third,Unit 3
+622,"Define listening. Differentiate listening with hearing.",Business Communication,Medium,06,Third,Unit 3
+623,"Describe various communication styles.",Business Communication,Hard,06,Third,Unit 3
+
+
+624,"Explain how Interpersonal Communication is beneficial in Business.",Business Communication,Easy,06,Third,Unit 4
+625,"What is Organization? Explain the concept of Organizational Communication.",Business Communication,Medium,06,Third,Unit 4
+626,"Explain how Relational Communication is done in the field of Business.",Business Communication,Hard,06,Third,Unit 4
+627,"Write a detail note on Organizational Communication.",Business Communication,Easy,06,Third,Unit 4
+628,"Comment how collaboration plays an important role in business communication.Business Communication,Medium,06,Third,Unit 4
+629,"State the difference between Team and Group and explain the importance of team in Business communication.",Business Communication,Hard,06,Third,Unit 4
+630,"What is an Organization? Discuss various types of organizational Communication.",Business Communication,Easy,06,Third,Unit 4
+631,"Explain how Interpersonal Communication is beneficial in Business.",Business Communication,Medium,06,Third,Unit 4
+632,"What is persuasive communication? Explain various skills of persuasive communication.",Business Communication,Hard,06,Third,Unit 4
+
+633,"What is persuasive communication? Explain how different types of persuasive communication are done in Business.",Business Communication,Easy,06,Third,Unit 5
+634,"What is leadership? Explain the different characteristics and importance of leadership.",Business Communication,Medium,06,Third,Unit 5
+635,"What is Ethics? Explain different types of Ethics in Business Communication.",Business Communication,Hard,06,Third,Unit 5
+636,"Explain the importance of negotiation in conflict management.",Business Communication,Easy,06,Third,Unit 5
+637,"Explain the types Leader in detail.",Business Communication,Medium,06,Third,Unit 5
+638,"Write a note on importance of technology in international business communication.",Business Communication,Easy,06,Third,Unit 5
+639,"Differentiate Leadership Vs Management",Business Communication,Easy,06,Third,Unit 5
+640,"What is Ethics? Explain different principles of Ethical Business Communication",Business Communication,Medium,06,Third,Unit 5
+641,"What is Crisis Communication? How do you write crisis communication plan?",Business Communication,Hard,06,Third,Unit 5
+
+
+642,"Why would you choose a database system instead of simple storing data in file processing system? Compare file processing system and DBMS.",DBMS,Easy,06,Third,Unit 1
+643,"Define an Entity and Attribute. Explain the different types of attributes that occur in an ER diagram model, with an example.",DBMS,Medium,06,Third,Unit 1
+644,"Draw an E-R diagram of Banking system taking into account at least five entities, indicate all keys, constraints and assumptions that are made.",DBMS,Hard,06,Third,Unit 1
+645,"Illustrate the database characteristics. How they are different from File systems.",DBMS,Easy,06,Third,Unit 1
+646,"Illustrate about integrity and key constraints with suitable examples?",DBMS,Medium,06,Third,Unit 1
+647,"Explain the importance of Null values in Relational Model.",DBMS,Easy,06,Third,Unit 1
+648,"Draw and explain the detailed system architecture of DBMS.",DBMS,Easy,06,Third,Unit 1
+649,"Explain in detail about various key constraints used in database system.",DBMS,Medium,06,Third,Unit 1
+650,"Discuss the main characteristics of the database approach and specify how it differs from traditional file system?",DBMS,Hard,06,Third,Unit 1
+651,"We develop database applications directly on top of file systems. But some problems arise because of this, Discuss those problems.",DBMS,Hard,06,Third,Unit 1
+652,"Explain two tier and three tier architectures of DBMS with schematic diagram and mention at least 1 example of each.",DBMS,Easy,06,Third,Unit 1
+653,"Draw the symbols of ER Diagram. Draw ER Diagram for Library Management System.",DBMS,Medium,06,Third,Unit 1
+
+
+654,"Define and differentiate the following relational algebra operators with suitable example:(i) Cartesian product (ii) Natural join",DBMS,Easy,06,Third,Unit 2
+655,"Consider the following relational schema.
+     Suppliers(sid, sname, address)
+     Parts(pid, pname, address)
+     Catalog(sid, pid, cost)
+    (i) Write relational algebra query to find the names of suppliers who supply some red part
+    (ii) Write relational algebra query to find the sid of suppliers who supply some red or green parts",DBMS,Medium,06,Third,Unit 2
+656,"Consider the following employee database. Give expression in tuple relational calculus for each of the following queries.
+     employee(employee_name,street,city)
+     works(employee_name,company_name,salary)
+     company(company_name,city)
+     manages(employee_name,manager_name)
+    (i)Find the names of all employees who work for First Bank Corporation.
+    (ii)Find the names and cities of residence of all employees who work for First Bank Corporation
+    (iii)Find all employees who live in the same city as that in which the company for which the work is located.",DBMS,Hard,06,Third,Unit 2
+657,"Explain in detail, the form of a basic SQL query with a suitable example.",DBMS,Easy,06,Third,Unit 2
+658,"List out various SET comparison operator in SQL and also write about its use in writing SQL queries.",DBMS,Medium,06,Third,Unit 2
+659,"Write a short notes on
+   i) Foreign Key ii) Relation state iii) Database schema.",DBMS,Medium,06,Third,Unit 2
+660,"Write the SQL syntax for the following with example: 1)SELECT 2) ALTER 3)UPDATE",DBMS,Easy,06,Third,Unit 2
+661,"What is Relational algebra? Explain basic operations along with symbols of Relational Algebra.",DBMS,Easy,06,Third,Unit 2
+662,"Write Relational Algebra Queries for following.
+     Note: Consider Relational Table - Account( Acno, AcName, Br_name,Amount).
+   a) To display all tuples from Accounts table.
+   b) To display Acno, AcName from accounts.
+   c) To display the tuples for the account whose amount>25000 and Br_name=”Dharashiv)
+   d) To display Acno, AcName, Amount From Account where the amount>50000",DBMS,Hard,06,Third,Unit 2
+663,"Explain Equijoin, left join and right join with suitable example and write proper relational algebraic query for each of them.",DBMS,Easy,06,Third,Unit 2
+
+664,"Consider the following schema and solve following queries using SQL.
+    employee (emp_no, name, skill ,pay_rate)
+    position (posting_no, skill)
+    duty-allocation (posting_no, emp_no, day, shift)
+
+   (i) Get duty allocation details for emp_no 123461 for the month of april1986.
+   (ii) Get employees whose rate of pay is more than or equal to the rate of payof employee ‘XYZ’.
+   (iii) Get the names and pay rates of employees with emp_no less than 123460 whose rate of pay is more than the rate of payoff atleast one employee with emp_no greater than or equal to 123460.",DBMS,Hard,06,Third,Unit 3
+665,"Consider the following relational schema.
+     Weather (city, temperature, humidity, condition)
+     Location (city, country)
+    Write the following queries in SQL:
+   (i) Find all the tuples having temperature greater than that of Paris.
+   (ii) Find the names of those cities with temperature and condition whose condition is neither Sunny nor Cloudy but temperature must be greater than
+   (iii) Find all the cities with temperature, condition and humidity, whose humidity is in the range of 63 to 79.",DBMS,Hard,06,Third,Unit 3
+666,"What is view? What are its advantages? Explain views in SQL with suitable example.",DBMS,Medium,06,Third,Unit 3
+667,"Write an SQL query for the following:
+    a)To create a table of Hospital database with minimum 4 fields
+    b) To insert two records
+    c) To add new field
+    d)To display all records",DBMS,Medium,06,Third,Unit 3
+668,"What are JOINS? Explain INNER JOIN and OUTER JOIN.",DBMS,Easy,06,Third,Unit 3
+669,"Explain different types of trigger.",DBMS,Easy,06,Third,Unit 3
+670,"Mention different SQL languages. Explain their purpose with suitable SQL commands.",DBMS,Easy,06,Third,Unit 3
+671,"Write the SQL Queries for the following. 
+   a) Creating, Using, showing and deleting databases.
+   b) To create BOOK table with Bkid, Title, Author, branch, cost and date of publishing. (Assume proper data type for each column).
+   c) Write query to insert 2 valid rows of values into the BOOK table.
+   d) Write query to increase the length of Title and Author.
+   e) Write query to list books with cost less than 100.
+   f) Write query to list all books with title 'RDBMS'.",DBMS,Medium,06,Third,Unit 3
+   
+672,"What is Normalization? Explain the importance of normalization.What is the criteria for good relation design?",DBMS,Easy,06,Third,Unit 4
+673,"Explain BCNF with suitable example and distinguish between BCNF and 3NF.
+    Is relation R(student_no, course_no,instr_no) with F = { {student_no, course_no}  instr_no, instr_no course_no}
+    in BCNF and 3NF? Justify your answer.",DBMS,Hard,06,Third,Unit 4
+674,"Consider the relation schema R=(A,B,C,G,H,I) and Set of functional de-pendencies:
+    A → B
+    A → C
+    CG → H
+    CG → I
+    B → H
+   Compute (AG)+.Is it candidate key? Justify your answer.",DBMS,Hard,06,Third,Unit 4
+675,"State BCNF. How does it differ from 3NF?",DBMS,Easy,06,Third,Unit 4
+676,"Explain insertion, deletion and modification anomalies with suitable examples.",DBMS,Medium,06,Third,Unit 4
+677,"State BCNF. How does it differ from 3NF? ",DBMS,Easy,06,Third,Unit 4
+678,"Explain about dynamic multilevel indexing using B+ trees.",DBMS,Hard,06,Third,Unit 4
+679,"Define Multi-valued dependency. Explain the Fourth normal form with an example.",DBMS,Medium,06,Third,Unit 4
+680,"What is normalization? Why one need to normalize the database tables? ",DBMS,Easy,06,Third,Unit 4
+681,"Explain 1st, 2nd and 3rd normal form with the help of suitable example.",DBMS,Medium,06,Third,Unit 4
+682,"Why we need to organize database files? Mention the type of organisations, and explain any one with suitable example.",DBMS,Hard,06,Third,Unit 4
+
+683,"Explain ACID properties in detail.",DBMS,Easy,06,Third,Unit 5
+684,"What are ordered indices? Explain with suitable example. Distinguish between dense index and sparse index.",DBMS,Medium,06,Third,Unit 5
+685,"Construct a B+-tree for the following set of key values:
+    (2, 3, 5, 7, 11, 17, 19, 23, 29, 31)
+    Assume that the tree is initially empty and values are added in ascending order. Construct B+-trees for four pointers that will fit in one node",DBMS,Medium,06,Third,Unit 5
+686,"Explain in detail about internal hashing Techniques.",DBMS,Easy,06,Third,Unit 5
+687,"Discuss in detail about cluster and Multilevel indexes.",DBMS,Medium,06,Third,Unit 5
+688,"Explain Concurrency control with locking methods.",DBMS,Hard,06,Third,Unit 5
+689,"Explain in detail about timestamp based concurrency control techniques.",DBMS,Medium,06,Third,Unit 5
+890,"Explain ACID properties of a transaction.",DBMS,Easy,06,Third,Unit 5
+891,"Explain how Concurrency control can be achieved with locking methods?",DBMS,Hard,06,Third,Unit 5
+892,"Define Transaction and their properties with suitable example.",DBMS,Easy,06,Third,Unit 5
+893,"Define serial and non-serial schedules. Explain serilisabilty with suitable example.",DBMS,Medium,06,Third,Unit 5
+894,"Explain the need of concurrency control. Mention the concurrency control methods. Explain any one with suitable example.",DBMS,Hard,06,Third,Unit 5
+
+
+895,"Construct a Deterministic Finite Automaton for the set of string over {a, b} such that length of the string |w|=2.",Theory Of Computation,Mediun,06,Third,Unit 1
+896,"State and explain applications of Regular Expressions.",Theory Of Computation,Easy,06,Third,Unit 1
+897,"Design an NFA with ∑ = {0, 1} accepts all string ending with 01.",Theory Of Computation,Hard,06,Third,Unit 1
+898,"Explain in brief FSM Properties and Limitations? Write Applications of FSM?",Theory Of Computation,Easy,06,Third,Unit 1
+899,"Construct Mealy Machine for the given Moore Machine? 
+    Present   state        Output
+          a=0     a=1
+
+     →q1      q1      q2      0
+     q2       q1      q3      0
+     q3       q1      q3      1 ",Theory Of Computation,Medium,06,Third,Unit 1
+900,"Design a FSM to check whether a given decimal number is divisible by 5?",Theory Of Computation,Hard,06,Third,Unit 1
+901,"Design Non deterministic Finite Automaton to accept all strings over alphabet {a, b} ending with abab.",Theory Of Computation,Easy,06,Third,Unit 1
+902,"Construct Deterministic Finite Automaton for regular expression (a+b)*aba",Theory Of Computation,Medium,06,Third,Unit 1 
+903,"Find the string set for following regular expressions. (i)00* (ii)a*b* (iii) (0+1)*",Theory Of Computation,Easy,06,Third,Unit 1
+904,"What are the elements of Deterministic Finite Automaton? How it is represented?",Theory Of Computation,Medium,06,Third,Unit 1
+905,"Design Non Deterministic Finite Automaton that accepts set of all strings over {0,1} that start with 0 or 1 and end with 01 or 10.",Theory Of Computation,Hard,06,Third,Unit 1
+
+906,"Distinguish between Moore machine and Mealy machine .",Theory Of Computation,Hard,06,Third,Unit 2
+907,"Write a regular expression over alphabet ∑ = {0, 1} for following .
+   (i) begins with 1, ends with 1 (ii) ends with 00 (iii) contains at least three consecutive 1s",Theory Of Computation,Easy,06,Third,Unit 2
+908,"Eliminate NULL production from the grammar G given below:
+    a. S→ a / Xb / aYa
+    b. X→ Y / ^
+    c. Y→ b / X
+   Write the productions after elimination.",Theory Of Computation,Medium,06,Third,Unit 2
+909,"Check whether the given grammar is ambiguous or not-
+    a. S → a / abSb / aAb
+    b. A → bS / aAAb",Theory Of Computation,Hard,06,Third,Unit 2
+910,"Distinguish between regular language and context free language.",Theory Of Computation,Medium,06,Third,Unit 2
+911,"Design context free grammar for following language (ab)n where n>=1 and anbn where n>=0.",Theory Of Computation,Hard,06,Third,Unit 2
+912,"State some applications of regular expressions.",Theory Of Computation,Easy,06,Third,Unit 2
+913,"Consider the following production rules.
+   S aAB
+   AbBb
+   B A|ε
+  Obtain leftmost and rightmost derivation for string 'abbbb'",Theory Of Computation,Hard,06,Third,Unit 2
+
+
+914,"Write the steps for grammar reduction. Eliminate Unit Productions from the following grammar.
+    S -> Aa|B|c
+    B -> A|bb
+    A -> a|bc|B",Theory Of Computation,Medium,06,Third,Unit 3
+915,"Explain Chomsky classification of grammar.",Theory Of Computation,Easy,06,Third,Unit 3
+916,"When does context free grammar is said to be in Chomsky Normal Form(CNF)? Write steps to convert context free grammar into CNF.",Theory Of Computation,Hard,06,Third,Unit 3
+917,"Consider a left linear grammar as given below −
+    a. S→ Sa|Abc
+    b. A→ Sa|Ab|a
+   Convert left linear grammar to right linear grammar.",Theory Of Computation,Easy,06,Third,Unit 3
+918,"Convert the given to context free grammar to CNF forms
+    a. S → ASB
+    b. A → aAS|a|ε
+    c. B → SbS|A|bb",Theory Of Computation,Medium,06,Third,Unit 3
+919,"Derive a derivation tree for the string aabbabba for the given context freegrammar (CFG) −
+    a. S->aB|bA
+    b. A->a|aS|bAA
+    c. B->b|bS|aBB",Theory Of Computation,Hard,06,Third,Unit 3
+920,"State some applications of Context Free Grammar.",Theory Of Computation,Easy,06,Third,Unit 3
+921,"Explain the following.
+    (i) Type 0 grammar
+   (ii) Type 1 grammar
+   (iii) Type 2 grammar
+   (iv) Type 3 grammar",Theory Of Computation,Medium,06,Third,Unit 3
+922,"Find the reduced grammar equivalent to the following grammar where productions are :
+    S AC | SB
+    A bASC | a
+    B  aSB | bbc
+    C BC |ad",Theory Of Computation,Hard,06,Third,Unit 3
+923,"Show that the given grammar is ambiguous grammar.
+   E E+E
+   EE*E
+   E  a",Theory Of Computation,Easy,06,Third,Unit 3
+924,"Find Context Free Grammar without ε- productions equivalent to the following grammar .
+    SABaC
+    ABC
+    Bb | ε
+    C D| ε
+    D  d",Theory Of Computation,Hard,06,Third,Unit 3
+
+925,"Write the productions rule of Context free grammar for following regular expressions. (i) 0* (ii) (a+b)* (iii) (ab)*",Theory Of Computation,Easy,06,Third,Unit 4
+926,"What are the different components of Pushdown Automaton? Explain with neat diagram.",Theory Of Computation,Medium,06,Third,Unit 4
+927,"Distinguish between Deterministic and Non Deterministic PDA.",Theory Of Computation,Easy,06,Third,Unit 4
+928,"Define a PDA & list three important properties of a PDA Machine?",Theory Of Computation,Easy,06,Third,Unit 4
+929,"Construct a PDA to check well formedness of parenthesis?",Theory Of Computation,Medium,06,Third,Unit 4
+930,"Convert the following grammar to a PDA that accepts the same language.
+    a. S → 0S1 | A
+    b. A → 1A0 | S | ε",Theory Of Computation,Hard,06,Third,Unit 4
+931,"What is Push Down Automaton (PDA)? Explain different components of PDA.",Theory Of Computation,Easy,06,Third,Unit 4
+932,"Design PDA to accept language L = (ab)* where na= nb.",Theory Of Computation,Medium,06,Third,Unit 4
+933,"Construct PDA for following grammar.
+    S aAA
+    A aS | bS | a",Theory Of Computation,Hard,06,Third,Unit 4
+934,"Reduce the following grammar to Chomsky Normal Form(CNF).
+   SaAD
+   AaB | bAB
+   Bb
+   Dd",Theory Of Computation,Medium,06,Third,Unit 4
+935,"Design Push down Automata (PDA) to accept language L=(a,b)* where na= nb.",Theory Of Computation,Hard,06,Third,Unit 4
+
+936,"Design Turing machine that accepts the language of all strings over alphabet ∑ = {a, b} whose second letter is b.",Theory Of Computation,Medium,06,Third,Unit 5
+937,"Explain the following (i)Multihead Turing machine (ii)Universal Turing machine (iii) Non Deterministic Turing machine",Theory Of Computation,Easy,06,Third,Unit 5
+938,"What is Church Turing Thesis ? Explain.",Theory Of Computation,Hard,06,Third,Unit 5
+939,"Design a TM for an equal number of a’s and b’s must follow a.",Theory Of Computation,Medium,06,Third,Unit 5
+940,"Design a TM which recognizes palindromes over = {a, b}",Theory Of Computation,Hard,06,Third,Unit 5
+941,"Explain ‘Halting Problem of turning machine’ with neat diagrams?",Theory Of Computation,Easy,06,Third,Unit 5
+942,"Explain how Turing machine is represented using transition diagram and transition table.",Theory Of Computation,Easy,06,Third,Unit 5
+943,"Explain concept infinite loop in Turing machine with the help of an Example.",Theory Of Computation,Easy,06,Third,Unit 5
+944,"Design Turing machine that recognizes the language L of all strings over {a, b} with number of a’s equal to number of b’s.",Theory Of Computation,Hard,06,Third,Unit 5
+945,"What are the different components of Turing machine?",Theory Of Computation,Easy,06,Third,Unit 5
+946,"What is halt state of Turing machine? Explain Church Turing thesis.",Theory Of Computation,Medium,06,Third,Unit 5
+947,"Design Turing machine that erases all non-blank symbols from its tape .",Theory Of Computation,Hard,06,Third,Unit 5
+
+
+948,"Explain with example, notation used and mathematical pression to describe following terms
+     1)Membership 2) Subset 3) Equality of two sets ",Discrete Mathematics,Easy,06,Second,Unit 1
+949,"Constructor a truth table for each of these compound propositions and identify type of compound statements
+     a. (p ⋀ q) → (p ⋁ q)
+     b. (q → ¬ p) ↔ (p ↔ q)",Discrete Mathematics,Medium,06,Second,Unit 1
+950,"Test the validity of following statement:
+    If there is strike by student, then exam will be postponed.
+    Exam was not postponed.
+    Therefore, there were no strikes by students ",Discrete Mathematics,Hard,06,Second,Unit 1
+951,"Let S(x) be the predicate “x is a student,” F(x) the predicate “x is a faculty member,” and A(x, y) the predicate“ x has asked y a question,” where the domain consists of all people associated with your school. Use quantifiers to express each of these statements.
+       I. Lois has asked Professor Michaels a question.
+      II. Every student has asked Professor Gross a question.
+     III. Every faculty member has either asked Professor Miller a question or been asked a question by Professor Miller.
+      IV. Some student has not asked any faculty member a question.
+       V. There is a faculty member who has never been asked a question by a student
+      VI. There is a faculty member who has asked every other faculty member a question",Discrete Mathematics,Easy,06,Second,Unit 1
+953,"Prove that 1 + 2 + 22 + ... + 2n = 2n+1- 1,where n is a nonnegative integer by using mathematical induction",Discrete Mathematics,Medium,06,Second,Unit 1
+954,"Among the integers 1 to 1000:
+    1) How many of them are not divisible by 3, or by 5, or by 7?
+    2) How many are not divisible by 5 and 7 but divisible by 3.",Discrete Mathematics,Hard,06,Second,Unit 1
+955,"Let P(x), Q(x), and R(x) be the statements “x is a professor,” “x is ignorant,” and “x is vain,” respectively. Express each of these statements using quantifiers; logical connectives; and P(x), Q(x), and R(x), where the domain consists of all people.
+    (a) No professors are ignorant. (b) All ignorant people are vain.
+    (c) No professors are vain. (d) Does (c) follows (a) and (b)?",Discrete Mathematics,Easy,06,Second,Unit 1
+956,"Show that if n is a positive integer, then 1+2+3+.......+n=n(n+1)/2 by using mathematical induction.",Discrete Mathematics,Medium,06,Second,Unit 1
+957,"Use De Morgan’s laws to find the negation of each of the following statements.
+    (a) Kwame will take a job in industry or go to graduate school.
+    (b) Yoshiko knows Java and calculus.
+    (c) James is young and strong.
+    (d) Rita will move to Oregon or Washington.",Discrete Mathematics,Hard,06,Second,Unit 1
+958,"a) Use the following statements
+       p: Mohan is rich
+       q: Mohan is happy
+      write the following statement in symbolic form
+        i) Mohan is rich but unhappy. ii) Mohan is poor but happy. iii) Mohan is neither rich nor happy.
+    b) Construct the truth table for the p∨¬( p∧q) statement form.",Discrete Mathematics,Hard,06,Second,Unit 1
+959,"a) Write the following statements using quantifier variables and predicate symbols
+        i) All birds can fly.
+       ii) Some men are genius.
+       iii) Each integer is either even or odd.
+   b) In survey of 120 people, it was found that 65 read News read magazine, 45 read Times, 42 read Fortune;20 read both Network and Times, 25 read both Network and Fortune, 15 read both Time and Fortune; and 8 read all the three magazine. Find the number of people who read exactly one magazine.",Discrete Mathematics,Medium,06,Second,Unit 1
+
+
+
+960,"Let A= {1,2,3,4,6,8,12} and R be the partial order on A defined by aRb if a divides b. Determine the relational matrix for R. Construct directed graph G on A. Draw Hasse diagram of Poset (A, R).",Discrete Mathematics,Easy,06,Second,Unit 2
+961,"State Pigeon hole principle. If five colors are used to paint 26 doors show that at least Six doors will have the same door",Discrete Mathematics,Medium,06,Second,Unit 2
+962,"Let f(x) =2x+3, g(x) =3x+4, h(x) =4x for x ∈ R, where R is set of real numbers. Find gof, fog, foh and hof.",Discrete Mathematics,Hard,06,Second,Unit 2
+963,"Determine whether each of these functions is one-to-one ,onto ,both or not a function Justify your answer
+     1) from {a, b, c, d} to itself
+       i. f(a) = b, f (b) = a, f (c) = c, f (d) = d
+      ii. f (a) = b, f (b) = b, f (c) = d, f (d) = c
+     2) from Z to Z
+       i. f (n) = n+ 1
+      ii. f (n) = n3",Discrete Mathematics,Medium,06,Second,Unit 2
+
+964,"How many permutations of the letters a, b, c, d, e, f, g contain neither the pattern bge nor eaf?",Discrete Mathematics,Medium,06,Second,Unit 2   
+965,"Let A={p,q,r}. Show (P(A), subset ) is a poset and draw it’s Hasse diagram.",Discrete Mathematics,Easy,06,Second,Unit 2
+966,"Answer these questions for the partial order represented by this Hasse diagram.
+    a) Find the maximal elements.
+    b) Find the minimal elements.
+    c) Is there a greatest element?
+    d) Is there a least element?
+    e) Find all upper bounds of {a, b, c}.
+    f) Find all lower bounds of {f, g, h}.",Discrete Mathematics,Hard,06,Second,Unit 2
+967,"Let f(x) = x + 2, g(x) = x – 2, and h(x) = 3x for x ∈ R where R = set of real numbers. Find i) gof ii) fohog iii) foh",Discrete Mathematics,Easy,06,Second,Unit 2
+968,"Solve the following homogeneous recurrence relation:
+    tn = 4tn-1 – 4tn-2.
+    tn = 1, n = 0 and n = 1.",Discrete Mathematics,Medium,06,Second,Unit 2
+969,"Explain the pigeonhole principle with example.",Discrete Mathematics,Medium,06,Second,Unit 2
+970,"Find how many symbol codes can be formed if the first two symbols are letters and the next three are digits but no symbol is repeated?",Discrete Mathematics,Hard,06,Second,Unit 2
+971,"Let A = {1, 2} and B = {a, b, c} Find
+     i) A X B
+     ii) B X A
+     iii) A X A.",Discrete Mathematics,Hard,06,Second,Unit 2
+972,"Solve ar = ar-1 – 6ar-2 = - 30 given a0 = 20, and a1 = 5.
+    a) Let R be the relation on the set of real numbers such that xR y if and only if x and y are real numbers that differ by less than 1, that is |x − y| < 1. Show that R is not an equivalence relation.
+    b) Define composite function. Let f and g be the functions from the set of integers to the set of integers defined by f(x) = 2x + 3 and g(x) = 3x + 2. What is the composition of f and g? What is the composition of g and f ?",Discrete Mathematics,Medium,06,Second,Unit 2
+
+
+973,"Show that the maximum number of edges in a simple graph having n vertices is n*(n-1)/2.",Discrete Mathematics,Easy,06,Second,Unit 2
+974,"Define Euler graph and Hamiltonian graph",Discrete Mathematics,Easy,06,Second,Unit 2
+975," 1) For a given graph G1
+        a) Find a Hamiltonian path that begins at A and ends at E.
+        b) Find a Hamiltonian circuit that starts at A and ends with the pair of vertices E, A
+        c) Find a Hamiltonian path that begins at F and ends at G.
+      2) For a given graph G2 find Eulerian path and Eulerian cycle",Discrete Mathematics,Easy,06,Second,Unit 2
+976,"Find a shortest path between vertices a and z in the given graph using Dijkstra shortest path algorithm.",Discrete Mathematics,Easy,06,Second,Unit 2
+977,"For the following maps
+    1) Draw the planar graph
+    2) Color the vertices of graph.
+    3) Find the chromatic number",Discrete Mathematics,Easy,06,Second,Unit 3
+978,"Find shortest path between a to z by Dijkstr’a Method.",Discrete Mathematics,Medium,06,Second,Unit 3
+979,"Determine whether the given graph has an Euler circuit. Construct such a circuit when one exists. If no Euler circuit exists, determine whether the graph has an Euler path and construct such a path if one exists.",Discrete Mathematics,Hard,06,Second,Unit 3
+980,"Draw the following graphs.
+    a) K7 b) K1,8 c) K4,4 d) C7 e) W7 f ) Q4",Discrete Mathematics,Easy,06,Second,Unit 3
+981,"Use paths either to show that these graphs are not isomorphic or to find an isomorphism between them.",Discrete Mathematics,Medium,06,Second,Unit 3
+982,"Use Dijkstra’s algorithm to find the length of a shortest path between the vertices 1 and 4 in the weighted graph displayed in Figure below.",Discrete Mathematics,Hard,06,Second,Unit 3
+983,"Define the terms: Simple Path, Null Graph, Complete Graph, Planner Graph. Find the Hamiltonian path and Hamiltonian circuit in the complete graph K4,3.",Discrete Mathematics,Easy,06,Second,Unit 3
+984,"Compute the shortest distance between source A to destination E using Dijkstra’s algorithm for the following graph.",Discrete Mathematics,Medium,06,Second,Unit 3
+985,"i. Write a Handshaking Lemma for a graph having Vertices V = (G, E) and Edges E.
+    ii. How many edges are there in a graph with 10 vertices each of degree six?
+    iii. Define Chromatic Number with suitable example.",Discrete Mathematics,Hard,06,Second,Unit 3
+
+
+986,"Define the following with reference to tree with example
+     a) Level and Height of a tree
+     b) M-ary tree
+     c) Fundamental Cut Sets",Discrete Mathematics,Hard,06,Second,Unit 4
+987,"Construct a minimum spanning tree (MST) for the given graph using Kruskal’s.",Discrete Mathematics,Medium,06,Second,Unit 4
+988,"Show that a tree with n vertices has n-1 edges",Discrete Mathematics,Easy,06,Second,Unit 4
+989,"Define Rooted tree, Balanced Tree and Binary search tree. Explain with example",Discrete Mathematics,Easy,06,Second,Unit 4
+990,"Find Minimum spanning tree for following graph by Prim’s Algorithm.",Discrete Mathematics,Medium,06,Second,Unit 4
+991,"Find Minimum spanning tree for following graph by using Kruskal’s algorithm.",Discrete Mathematics,Hard,06,Second,Unit 4
+992,"Use Huffman’s algorithm to provide an optimal average-bit-length code for the probability distribution a: 0.2, b: 0.2, c: 0.15, d: 0.15, e: 0.15, f: 0.1, and g:0.05. Draw a binary tree to find the prefix code for for each probability distribution and compute the average bit-length of a codeword.",Discrete Mathematics,Hard,06,Second,Unit 4
+993,"Use Kruskal’s algorithm to find a minimum spanning tree for the weighted graph in the Figure below.
+    (i) What is the value of each of the prefix expressions + − ↑ 3 2 ↑ 2 3 / 6 − 4 2?
+    (ii) What is the value of each of the postfix expressions 3 2 ∗ 2 ↑ 5 3 − 8 4 / ∗ −?",Discrete Mathematics,Hard,06,Second,Unit 4
+994,"Define Euler graph and Hamiltonian Graph.
+    i)For a given graph G :
+     (a) Find a Hamiltonian path that begins ar A and ends at E.
+     (b) Find a Hamiltonian circuit that starts at A and ends with the pair of vertices E,A.
+     (c) Find a Hamiltonian path that begins at F and ends at G.",Discrete Mathematics,Medium,06,Second,Unit 4
+995,"Consider the following rooted tree and give the answer for following:
+  (i) Find the ancestor of f.
+  (ii) Find the Descendant of j.
+  (iii) How many terminal vertices are there?
+  (iv) Draw the subtree rooted at e.
+  (v) Find the siblings of g.
+  (vi) Write the internal vertices of the tree.",Discrete Mathematics,Medium,06,Second,Unit 4
+996,"Use Prim’s algorithm and Kruskal’s to find a minimum spanning tree in the graph shown in Figure.",Discrete Mathematics,Easy,06,Second,Unit 4
+
+
+997,"Define the following terms
+     1. Algebraic structures 2. Semi Group 3. Monoids 4. Ring 5. Field 6. Group",Discrete Mathematics,Easy,06,Second,Unit 5
+998,"For each of following, determine whether the binary operations * is commutative or associative?
+    i) N is the set of natural numbers and a*b=a+b+2 for all a,b from N
+    ii) on N where a*b=min (a, b+2)
+    iii) on R where a*b=ab",Discrete Mathematics,Medium,06,Second,Unit 5
+999,"Determine whether (Z, +, *) is a ring with the binary operations x + y = x + y-7 And x*y =x + y -3xy for all x, y ∈ Z",Discrete Mathematics,Medium,06,Second,Unit 5
+1000,"Define Semigroup, Monoid and Group. Explain with example",Discrete Mathematics,Easy,06,Second,Unit 5
+1001,"Let (G,⊕ ) is an algebraic system where G={ 1101, 0000, 1001,0100} prove that (G,⊕ ) is a group.",Discrete Mathematics,Hard,06,Second,Unit 5
+1002,"Define Ring . Prove that An algebraic system (Z, + , ·) is a ring, where + is addition and · means multiplication operation. i.e. a + b as the sum of a and b in Z, and a · b as the product of a and b in Z.",Discrete Mathematics,Hard,06,Second,Unit 5
+1003,"Consider the binary operation defined on the set A = {a, b, c, d} by following table.
+    Find:  * a b c d
+           a a c b d
+           b d a b c
+           c c d a a
+           d d b a c
+    (i) c * d and d * c
+    (ii) b * d and d * b
+    (iii) a * (b * c) and (a * b) * c",Discrete Mathematics,Medium,06,Second,Unit 5
+1004,"Consider the group G = {1, 2, 4, 7, 8, 11, 13, 14} under multiplication modulo 15.
+     i) Find multiplication table of G.
+     ii) Find 2^-1, 7^-1.
+     iii) Find the orders and subgroups generated by 7 and 11.",Discrete Mathematics,Hard,06,Second,Unit 5
+1005,"Define the following terms.
+     i)Algebraic Structures ii) Semi Groups iii) Monoids iv) Ring v) Field vi) Group",Discrete Mathematics,Easy,06,Second,Unit 5
+1006,"For each of the following, determine whether the binary operation * is commutative or associative?
+     i) Nisthesetof naturalnumbersanda* b=a*b+2 fora, b GN ii) On N where a * b: min(4 b+2) iii) OnRwherea*b:ab",Discrete Mathematics,Medium,06,Second,Unit 5
+1007,"Show that a tree with n vertices has n-l edges.",Discrete Mathematics,Easy,06,Second,Unit 5
+1008,"Construct the rninimum spanning tree (MST) for the given graph using Kruskal's Algorithm.",Discrete Mathematics,Easy,06,Second,Unit 5
+
+
+
+1009,"What is Algorithm? Explain criteria of Algorithms.",Design & Analysis of Algorithms,Easy,06,Second,Unit 1
+1010,"What is Asymptotic Notations? Explain any three Asymptotic Notations.",Design & Analysis of Algorithms,Medium,06,Second,Unit 1
+1011,"Define Max and Min Heap and write algorithm to insert into a heap.",Design & Analysis of Algorithms,Easy,06,Second,Unit 1
+1012,"Solve the following recurrences using Master Theorem.
+      (i) T (n) = 16T(n/4) + n.
+     (ii) T (n) = T (2n/3) + 1
+     (iii) T(n) = 3T(n/4) + n log n",Design & Analysis of Algorithms,Hard,06,Second,Unit 1
+1013,"What are different asymptotic notations? Explain with neat graphs. If f(n) =sqrt (n) and g(n)=n then prove that f(n) is Og(n).",Design & Analysis of Algorithms,Medium,06,Second,Unit 1
+1014,"What are the different properties of algorithm ? Which factors affect runtime of an algorithm ?",Design & Analysis of Algorithms,Hard,06,Second,Unit 1
+
+
+1015,"Write algorithm for Binary Search and calculate its time complexity.",Design & Analysis of Algorithms,Easy,06,Second,Unit 2
+1016,"Explain Quick Sort algorithm with its performance analysis.",Design & Analysis of Algorithms,Medium,06,Second,Unit 2
+1017,"Explain Strassen’s Matrix Multiplication.",Design & Analysis of Algorithms,Hard,06,Second,Unit 2
+1018,"What is best case and worst case time complexity for Merge Sort ? Apply Merge Sort on following array.
+       A = { 13, 4, 22, 1,16, 9,0,2}",Design & Analysis of Algorithms,Easy,06,Second,Unit 2
+1019,"Distinguish between Divide and Conquer and Dynamic programming approach .",Design & Analysis of Algorithms,Medium,06,Second,Unit 2
+
+1020,"Draw a state space tree for finding Four Queens problems solution.",Design & Analysis of Algorithms,Easy,06,Second,Unit 3
+1021,"Describe Graph Coloring Problem with suitable example",Design & Analysis of Algorithms,Medium,06,Second,Unit 3
+1022,"Explain Branch and Bound with suitable example.",Design & Analysis of Algorithms,Hard,06,Second,Unit 3
+1023,"Caculate shortest path from node S to all nodes for following graph using Dijkstra’s algorithm.",Design & Analysis of Algorithms,Easy,06,Second,Unit 3
+1024,"Apply greedy approach to solve following fractional knapsack problem if capacity of knapsack is 60 kg. Calculate maximum profit.",Design & Analysis of Algorithms,Medium,06,Second,Unit 3
+1025,"Apply Huffman Coding algorithm on following data. Write the code for each character using Huffman Coding algorithm.",Design & Analysis of Algorithms,Hard,06,Second,Unit 3
+
+
+1026,"Find an optimal solution to the knapsack instance n = 7, m = 15, (P1 ,P2, P3,P4 P5 ,P6 P7 ) = (10,5,15,7,6,18,3), and (w1, w2, w3, w4, w5, w6, w7) =(2,3,5,7,1,4,1).",Design & Analysis of Algorithms,Easy,06,Second,Unit 4
+1027,"What is Minimum Cost Spanning Tree? Explain with suitable example.",Design & Analysis of Algorithms,Medium,06,Second,Unit 4
+1028,"Explain Job Sequencing with Deadlines.",Design & Analysis of Algorithms,Hard,06,Second,Unit 4
+1029,"Apply Floyd Warshall’s algorithm on following graph.",Design & Analysis of Algorithms,Easy,06,Second,Unit 4
+1030,"Determine Longest Common Subsequence between X and Y if X=< x m j y a u z> and Y= <m z j a w x u>.",Design & Analysis of Algorithms,Hard,06,Second,Unit 4
+1031,"Explain the following terms.
+     (i) P -problem (ii) NP problem (iii)NP complete problem",Design & Analysis of Algorithms,Medium,06,Second,Unit 4
+
+
+1032,"Analyze Floyd Warshals algorithm for Dynamic Programming.",Design & Analysis of Algorithms,Easy,06,Second,Unit 5
+1033,"Explain complexity class P and complexity class NP.",Design & Analysis of Algorithms,Medium,06,Second,Unit 5
+1034,"Differentiate between Dynamic Programming and Greedy Algorithm.",Design & Analysis of Algorithms,Hard,06,Second,Unit 5
+1035,"How 4 –Queens problem is solved by backtracking approach ? Draw state space tree for 4- Queens problem?",Design & Analysis of Algorithms,Easy,06,Second,Unit 5
+1036,"Solve the following travelling salesman problem using branch and bound approach.
+     [1,1]= infinity,[1,2]=20 ,[1,3]= 30,[1,4]=10 ,[1,5]=11 ,
+     [2,1]=15,[2,2]=infinity,[2,3]=30,[2,4]=10,[2,5]=11,
+    [3,1]=3,[3,2]=5,[3,3]= infinity,[3,4]=2,[3,5]=4,
+    [4,1]=19,[4,2]= 6,[4,3]= 18,[4,4]= infinity,[4,5]= 3,
+    [5,1]=16,[5,2]=4,[5,3]= 7,[5,4]= 16,[5,5]= infinity ",Design & Analysis of Algorithms,Hard,06,Second,Unit 5
+1037,"Compare and contrast backtracking and branch and bound approach.",Design & Analysis of Algorithms,Medium,06,Second,Unit 5
+
+
+
+1038,"Describe memory layout of multiprogramming operating system. State its advantages.",Operating Systems,Easy,06,Second,Unit 1
+1039,"Discuss design goals, polies and implementation of a typical operating system.",Operating Systems,Medium,06,Second,Unit 1
+1040,"Explain Virtual Machine (VM) based structure of operating system.",Operating Systems,Hard,06,Second,Unit 1
+1041,"List out different services of Operating Systems and Describe each service.",Operating Systems,Easy,06,Second,Unit 1
+1042,"What are system calls? Explain different categories of system calls with example?",Operating Systems,Medium,06,Second,Unit 1
+1043,"Describe different sub-components of an operating system.",Operating Systems,Hard,06,Second,Unit 1
+1044,"Write a Short Note on the following:
+     a) Real-time Embedded System
+     b) Advantages of Multiprocessor System",Operating Systems,Easy,06,Second,Unit 1
+1045,"Explain the storage system hierarchy of operating system with neat diagram.",Operating Systems,Medium,06,Second,Unit 1
+1046,"Explain operating services with respect to programs and users.",Operating Systems,Hard,06,Second,Unit 1
+1047,"Explain Real time operating system with its types, advantages and examples.",Operating Systems,Easy,06,Second,Unit 1
+1048,"Explain microkernel type operating system structure.",Operating Systems,Medium,06,Second,Unit 1
+
+
+1050,"Describe the contents of Process Control Block (PCB).",Operating Systems,Easy,06,Second,Unit 2
+1051,"Explain the role of long term, short term and middle term scheduler in process scheduling.",Operating Systems,Medium,06,Second,Unit 2
+1052,"Consider the following data with burst time given in milliseconds:
+      Process    Burst Time   Priority    Arrival time
+        P1             7          3            0
+        P2             4          1            2
+        P3             1          2            4
+        P4             4          4            5
+     i) Draw Gantt charts for the execution of these processes using FCFS,non-preemptive and preemptive SJF, and non-preemptive Priority scheduling.
+     ii) What is the Average waiting time of each process for each of the scheduling algorithm.",Operating Systems,Hard,06,Second,Unit 2
+1053,"Describe the actions taken by a kernel to context switch between kernel level threads",Operating Systems,Easy,06,Second,Unit 2
+1054,"Suppose the following jobs arrive for processing at the times indicated,each job willrun the listed amount of time.
+        Job    arrival time    burst time
+          1       0.0             9
+          2       0.2             5
+          3       1.2             2
+    i) Give a Gantt chart illustrating the execution of these jobs using the non- preemptive FCFS and SJF scheduling algorithms.
+    ii) what is turnaround time and wait time of each job for the above algorithms?",Operating Systems,Medium,06,Second,Unit 2
+1055,"Describe the actions taken by a kernel to context-switch between processes.",Operating Systems,Hard,06,Second,Unit 2
+1056,"Describe Process Control Block with suitable Example.",Operating Systems,Easy,06,Second,Unit 2
+1057,"Determine the average waiting time and draw a Gantt Chart for following process with burst time using Shortest-Job-First scheduling algorithm.
+            Process           Burst Time
+              P1                   6
+              P2                   8
+              P3                   7
+              P4                   3",Operating Systems,Medium,06,Second,Unit 2
+1058,"What is thread? Differentiates between user level thread and kernel level thread.",Operating Systems,Hard,06,Second,Unit 2
+1059,"What is inter- process communication in operating System? Explain its types.",Operating Systems,Easy,06,Second,Unit 2
+
+
+
+1060,"Explain the use of Resource Allocation Graph (RAG) in deadlock detection.",Operating Systems,Easy,06,Second,Unit 3
+1061,"Write a pseudocode of Swap instruction used for process synchronization.",Operating Systems,Medium,06,Second,Unit 3
+1062,"Examine banker’s algorithm for following snapshot of the system, there are 3 processes, P1, P2 and P3. And 3 resource types, R1, R2 and R3. There are 12 instances of resource type R1, 11 instances of resource type R2 and 20 instances of resource type R3.
+    At time T0, the situation is as follows-
+    State-
+       i) Contents of matrix Need.
+       ii) Is the system in a safe state at T0?",Operating Systems,Hard,06,Second,Unit 3
+1063,"Describe necessary conditions for a deadlock situation to arise.",Operating Systems,Easy,06,Second,Unit 3
+1064,"What is critical section problem and what are the requirements that need to be satisfied by any solution to critical section problem? Give a solution to a 2 processcritical section problem.",Operating Systems,Medium,06,Second,Unit 3
+1065,"Discuss the Peterson’s solution for the critical-section problem.",Operating Systems,Hard,06,Second,Unit 3
+1066,"Explain the Dining Philosopher’s problem with the structure of philosophers.",Operating Systems,Easy,06,Second,Unit 3
+1067,"Describe the three requirements to satisfy as a solution to critical-section problem.",Operating Systems,Medium,06,Second,Unit 3
+1068,"Illustrate Peterson‘s Solution for critical section problem.",Operating Systems,Hard,06,Second,Unit 3
+1069,"How the readers and writers problem can be solved using semaphore?",Operating Systems,Easy,06,Second,Unit 3
+
+
+1070,"Consider the page reference string- 4, 7, 6, 1, 7, 6, 1, 2, 7, 2.
+     If there is there is three-page frames, calculate page faults for following algorithms-   
+    i) FIFO page replacement
+    ii) LRU page replacement
+    iii) Optimal page replacement",Operating Systems,Easy,06,Second,Unit 4
+1071,"Explain paging mechanism with neat diagram. State the importance of offset in it.",Operating Systems,Medium,06,Second,Unit 4
+1072,"Discuss the need of page replacement. Differentiate between local and global page replacement.",Operating Systems,Hard,06,Second,Unit 4
+1073,"Consider a logical address space of 8 pages of 1024 words each, mapped on to a physical memory of 32 frames.
+       How many bits are there in the logical address?
+       How many bits are there in the physical address?",Operating Systems,Easy,06,Second,Unit 4
+1074,"A process references 6 pages 1, 2, 3, 4, 5, 6 in the following order 1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6
+     Assuming that the replacement algorithm is LRU, Optimal and FIFO, find out the number of page faults during the sequence of references, starting with an empty main memory with 3 frames.",Operating Systems,Medium,06,Second,Unit 4
+1075,"Explain with the help of supporting diagram how TLB improves the performance of a demand paging system.",Operating Systems,Hard,06,Second,Unit 4
+1076,"Given five memory partitions of 100KB, 500KB, 200KB, 300KB, and 600KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212KB, 417KB, 112KB, and 426KB (in order)? Which algorithm makes the most efficient use of memory?",Operating Systems,Easy,06,Second,Unit 4
+1077,"Consider a logical address space of 64 pages of 1,024 words each, mapped onto a physical memory of 32 frames.
+    a) How many bits are there in the logical address?
+    b) How many bits are there in the physical address?",Operating Systems,Medium,06,Second,Unit 4
+1078,"What is demand paging? Explain the steps in handling page fault using appropriate diagram.",Operating Systems,Hard,06,Second,Unit 4
+1079,"Write short on:
+      i. Working set model.
+      ii. Fragmentation",Operating Systems,Easy,06,Second,Unit 4
+1080,"Assume three frames and consider the reference page string below.
+    Reference page string: 5, 7, 6, 0, 7, 1, 7, 2, 0, 1, 7, 1, 0 Determine the number of page faults using optimal and least recently used page replacement algorithm. State which algorithm is most efficient?",Operating Systems,Medium,06,Second,Unit 4
+
+
+1081,"Explain the concept of file. State various file operations.",Operating Systems,Easy,06,Second,Unit 5
+1082,"Discuss linked and index disk space allocation methods with neat sketch.",Operating Systems,Medium,06,Second,Unit 5
+1083,"Write a note on free space management.Consider two files systems A and B, that use contiguous allocation and linked allocation, respectively. A file of size 100 blocks is already stored in A and also in B. Now, consider inserting a new block in the middle ofthe file (between 50th and 51st block), whose data is already available in the memory. Assume that there are enough free blocks at the end of the file and that the file control blocks are already in memory. Let the number of disk accesses required to insert a block in the middle of the file in A and B are nA and nB respectively, then the calculate value of nA + nB.",Operating Systems,Hard,06,Second,Unit 5
+1084,"Suppose that a disk drive has 200 cylinders, numbered 0 to 199. the drive currently services a request at cylinder 50, and the previous request was at cylinder 25. the queue of pending request in FIFO order is 82,170,43,140,24,16,190 Starting from the current position, what is the total distance (in cylinders) that the disk arm moves to satisfy all pending requests, for each of the following algorithms i)FCFS ii) SSFT iii) SCAN iv)LOOK v) C-SCAN vi) C-LOOK.",Operating Systems,Medium,06,Second,Unit 5
+1085,"What are the three methods for allocating disk space? Explain with help each method suitable diagram, merits and demerits.",Operating Systems,Easy,06,Second,Unit 5
+1086,"Write the name of the terminology used for the boot-control block and volume-control block in Unix and NT File System.",Operating Systems,Medium,06,Second,Unit 5
+1087,"Consider a file system that uses inodes to represent files. Disk blocks are 8 KB in size, and a pointer to a disk block requires 4 bytes. This file system has 12 direct disk blocks, as well as single, double, and triple indirect disk blocks. What is the maximum size of a file that can be stored in this file system?",Operating Systems,Hard,06,Second,Unit 5
+1088,"Describe the following file types with respect to extension used for the file and functioning of the respective file type.
+      a) Executable
+      b) object
+      c) batch
+      d) library
+      e) archive
+      f) source code",Operating Systems,Medium,06,Second,Unit 5
+1089,"Enlist and Explain in details the various operations performed on the file.",Operating Systems,Easy,06,Second,Unit 5
+1090,"Explain the linked allocation type disk free space management.",Operating Systems,Easy,06,Second,Unit 5
+1091,"Explain the contiguous and indexed file allocation methods.",Operating Systems,Medium,06,Second,Unit 5
+1092,"Explain following disk scheduling techniques with its advantages ...
+      i. Shortest Seek Time First
+      ii. SCAN",Operating Systems,Hard,06,Second,Unit 5
+
+
+
+1093,"Explain the different components of Central Processing Unit?",CA&O,Easy,06,Second,Unit 1
+1094,"Explain different types of memories with examples?",CA&O,Medium,06,Second,Unit 1 
+1095,"Explain with neat diagram computer components top- level view?",CA&O,Medium,06,Second,Unit 1
+1096,"Describe the Fetch-Decode-Execute cycle in the CPU. Explain the role of each stage in the execution of the instructions cycle.",CA&O,Hard,06,Second,Unit 1
+1097,"Discuss the role of buses in computer organization. Explain the different types of buses and their functions.",CA&O,Easy,06,Second,Unit 1
+1098,"Discuss the concept of interrupts in computer organization.",CA&O,Medium,06,Second,Unit 1
+1099,"Describe the structural overview of computer.",CA&O,Easy,06,Second,Unit 1
+1100,"Define stored program concept and Explain Von Neumann's Architecture with diagram.",CA&O,Hard,06,Second,Unit 1
+1101,"Discuss the role of buses in computer organization. Explain the different types of buses and their functions?State the basic fundamental units of computers and give brief explanation for each with neat diagram.",CA&O,Hard,06,Second,Unit 1
+1102,"Write a short note on i)PC ii)IR iii) MAR iv) MDR",CA&O,Medium,06,Second,Unit 1
+1103,"Explain in detail Instruction Fetching and Execution",CA&O,Medium,06,Second,Unit 1
+
+
+1104,"Explain different types of instructions sets.",CA&O,Easy,06,Second,Unit 2 
+1105,"Explain different addressing modes.",CA&O,Easy,06,Second,Unit 2 
+1106,"Explain the architecture of RISC and CISC processor.",CA&O,Medium,06,Second,Unit 2
+1107,"Differentiate between RISC & CISC Architecture.",CA&O,Easy,06,Second,Unit 2
+1108,"Describe the concept of Addressing Modes. Give the list of addressing modes and explain-
+    a) Immediate Addressing Mode
+    b) Indirect Addressing Mode",CA&O,Medium,06,Second,Unit 2
+1109,"Discuss the assembly language programming. How does it differ from a high-level programming language.",CA&O,Hard,06,Second,Unit 2
+1110,"List assembler directives? Assuming any assembler, give the necessary directives required for any program.",CA&O,Hard,06,Second,Unit 2
+1111,"Describe the concept of Addressing Modes. Give the list of addressing modes and explain-
+    a) Register Indirect Addressing Mode
+    b) Direct Addressing Mode",CA&O,Medium,06,Second,Unit 2
+1112,"Write a short note on-
+  1) RISC
+  2) CISC",CA&O,Easy,06,Second,Unit 2
+1113,"Explain types of Operand and Operations with suitable instruction of assembly language.",CA&O,Hard,06,Second,Unit 2
+
+
+1114,"Explain the function of ALU.",CA&O,Easy,06,Second,Unit 3
+1115,"Briefly explain the following representations: sign magnitude, twos complement.",CA&O,Medium,06,Second,Unit 3
+1116,"What are the four essential elements of a number in floating-point notation?",CA&O,Hard,06,Second,Unit 3
+1117,"Explain the floating-point representation in detail.",CA&O,Easy,06,Second,Unit 3 
+1118,"Represent the decimal values 12, -10 and 15 assigned eight-bit numbersin the following binary formats-
+  a) Signed magnitude
+  b) 1’s Complement
+  c) 2’s Complement",CA&O,Medium,06,Second,Unit 3
+1119,"Subtract (11011)2 - (10011)2 using 1's complement & 2's complement method.",CA&O,Hard,06,Second,Unit 3
+1120,"Convert (100.125)1e in IEEE-754 single precision floating point representation.",CA&O,Easy,06,Second,Unit 3
+1121,"Sketch and explain flowchart for multiplication of floating point nurnbers.",CA&O,Mediun,06,Second,Unit 3
+1122,"Explain Integer representation in detail? ",CA&O,Easy,06,Second,Unit 3
+1123,"Multiply using a sequential circuit for binary multiplication i) 11 x 7 ii) 7 x 8",CA&O,Hard,06,Second,Unit 3
+1124,"Write a Booth algorithm for multiplication with a suitable example.",CA&O,Hard,06,Second,Unit 3
+1125,"Solve the following using Binary division restoring algorithm i) 8 / 2 ii) 11 / 5",CA&O,Hard,06,Second,Unit 3
+
+
+1126,"Explain types of semiconductor memories technologies.",CA&O,Easy,06,Second,Unit 4
+1127,"Explain memory hierarchy in computer system.",CA&O,Medium,06,Second,Unit 4 
+1128,"Explain the working of optical memory.",CA&O,Hard,06,Second,Unit 4
+1129,"Write a short note on-
+   1) ROM
+   2) RAID",CA&O,Easy,06,Second,Unit 4
+1130,"Explain the role and function of a cache memory system. Discuss the different levels of cache memory including L1, L2 and L3 caches.",CA&O,Hard,06,Second,Unit 4
+1131,"Explain the magnetic tape. Discuss the advantages and disadvantages of magnetic tape using as a storage medium.",CA&O,Easy,06,Second,Unit 4
+1132,"Encode the data I l0l in even parity by using Hamming Code.",CA&O,Medium,06,Second,Unit 4
+1133,"Elaborate various types of ROM: Magnetic as well as optical.",CA&O,Medium,06,Second,Unit 4
+1134,"Write a short note on-
+   1) RAM
+   2) ROM",CA&O,Easy,06,Second,Unit 4
+1135,"Explain RAID memory in detail?",CA&O,Easy,06,Second,Unit 4 
+1136,"Explain the magnetic Disk. Discuss the advantages and disadvantages of magnetic disk using as a storage medium?",CA&O,Medium,06,Second,Unit 4
+1137,"Explain RAM & DRAM with neat diagram.",CA&O,Hard,06,Second,Unit 4 
+1138,"Write a short note i) Magnetic Disk ii) Magnetic Tape.",CA&O,Easy,06,Second,Unit 4
+1139,"Explain Cache Mapping – Set associative mapping with neat diagram.",CA&O,Hard,06,Second,Unit 4
+
+
+1140,"Explain Programmed I/O module and Interrupt driven I/O.",CA&O,Easy,06,Second,Unit 5 
+1141,"Explain Input/output organization of computer system.",CA&O,Easy,06,Second,Unit 5 
+1142,"Explain the Flynn's classification.",CA&O,Hard,06,Second,Unit 5
+1143,"Explain the Microprogrammed Control Unit.",CA&O,Medium,06,Second,Unit 5
+1144,"Differentiate between Interrupt driven I/O & Direct Memory Access.",CA&O,Easy,06,Second,Unit 5
+1145,"Explain the Instruction pipelining & what are the benefits of it in modern processors.",CA&O,Hard,06,Second,Unit 5
+1146,"Explain lnstruction Pipelining.",CA&O,Easy,06,Second,Unit 5
+1147,"What is instruction pipelining, and what advantages does it offer in modern processors?",CA&O,Medium,06,Second,Unit 5
+1148,"Explain the Microprogrammed Control Unit?",CA&O,Easy,06,Second,Unit 5
+1149,"Differentiate between Interrupt driven I/O & Programmed I/O?",CA&O,Hard,06,Second,Unit 5
+1150,"Write short note on i) I/O channels ii) Direct memory Access (DMA)",CA&O,Medium,06,Second,Unit 5
+1151,"Explain Micro-instruction Sequencing.",CA&O,Easy,06,Second,Unit 5
+
+
+1152,"What is Data Structure? Explain the various characteristics of an algorithm.",Data Structure,Easy,06,Second,Unit 1
+1153,"What is sparse matrix? Explain the representation of it.",Data Structure,Medium,06,Second,Unit 1 
+1154,"What is primitive data structure? Enlist the differences between primitive and non-primitive data structures.",Data Structure,Easy,06,Second,Unit 1
+1155,"What is data structure? Why to study data structure? Enlist the five areas of computer science in which data structure is used.",Data Structure,Hard,06,Second,Unit 1
+1156,"What is garbage collection? Who will run garbage collection program? When it will be run?",Data Structure,Medium,06,Second,Unit 1
+1157,"Suppose multidimensional arrays A and B are declared using A (0:5. -2:7) and B (0:5, - I :4). Find the length of each dimension and the number of elements in array A and B.",Data Structure,Hard,06,Second,Unit 1
+1158,"What is a data structure? Why do we need data structures? Differentiate linear and non-linear data structure.",Data Structure,Medium,06,Second,Unit 1
+1159,"Explain the concept of sparse matrices.",Data Structure,Easy,06,Second,Unit 1 
+1160,"Explain double hashing in data structure with its advantages and disadvantages.",Data Structure,Hard,06,Second,Unit 1
+
+1161,"Explain various stack operations with example.",Data Structure,Easy,06,Second,Unit 2
+1162,"Write Algorithms for enqueue and dequeue operations on queue with example.",Data Structure,Medium,06,Second,Unit 2
+1163,"Convert the following infix expression to postfix expression. A / B ^ C +D * E – A * C",Data Structure,Hard,06,Second,Unit 2
+1164,"What is circular queue? Let the following circular queue can accommodate maximum six elements with the following data, front : 2, rear: 4 and initial queue content is queue: ----, L, M, N, Show the queue content with front and rear value after the following operations.
+   i) Insert A ii) Delete iii) Insert B iv) Delete",Data Structure,Hard,06,Second,Unit 2
+1165,"What is singly linked list? Write algorithm to find the number of times a given ITEM occurs in the singly linked list.",Data Structure,Easy,06,Second,Unit 2
+1166,"Letter keys: 46,34,42,23,52.33 are inserted into an empty hash table using function h (key): key mod 10. Give hash table content after every insertion. if open addressing with linear probing is used to deal with collision.",Data Structure,Hard,06,Second,Unit 2
+1167,"What is Queue ADT? Explain representation and implementation of queue using sequential operations.",Data Structure,Easy,06,Second,Unit 2
+1168,"Explain applications of stack for Expression Evaluation.",Data Structure,Medium,06,Second,Unit 2 
+1169,"What is priority queue ? Explain operations of priority queue.",Data Structure,Easy,06,Second,Unit 2
+
+1170,"What are advantages and disadvantages of linked list?",Data Structure,Easy,06,Second,Unit 3 
+1171,"Write differences between array and linked list.",Data Structure,Medium,06,Second,Unit 3
+1172,"Describe doubly link list (DLL) operations.",Data Structure,Easy,06,Second,Unit 3
+1173,"What is selection sort? Sort the numberfollowing numbers in ascending order and also show the worst case time complexity of selection sort is O (n2).",Data Structure,Hard,06,Second,Unit 3
+1174,"Consider the stack of size 6 memory cells. Suppose initially stack contains a, b, c, d, e (Top of stack). Then the following operations are executed i)Push(f) ii)Pop(Top)iii ) Push(g) iv) Push ( h ) v) Pop(to p) v i) Push( i)",Data Structure,Hard,06,Second,Unit 3
+1175,"Explain how to implement two stacks in one array A[1 . . N] in such a way that neither stack overflow unless the total number of elements in both the stacks together is N. Note that, Push0 and Pop0 operations should be run in O ( 1 )time.",Data Structure,Hard,06,Second,Unit 3
+1176,"Explain circular linked list data structure with its insertion and deletion operations.",Data Structure,Easy,06,Second,Unit 3
+1177,"Write a C Program to implement following any two operations of doubly linked list.
+      1.insertion 2.deletion 3.display 4.search",Data Structure,Medium,06,Second,Unit 3
+1178,"Justify a linked list is a data structure that is based on dynamic memory allocation. and List the application of Linked List Dynamic Memory Allocation.",Data Structure,Medium,06,Second,Unit 3
+
+1179,"What are the properties of binary search tree?",Data Structure,Easy,06,Second,Unit 4 
+1180,"Illustrate the binary tree traversal with example.",Data Structure,Medium,06,Second,Unit 4
+1181,"Explain Heap in binary tree with basic operations on binary heap.",Data Structure,Hard,06,Second,Unit 4
+1182,"What are the different types of the linked list? Give advantages and disadvantages each of the linked list over another.",Data Structure,Easy,06,Second,Unit 4
+1183,"Assulne, the following letters are inserted into an empty binary search tree in given order. J, B. D, F, N, K, O. Construct binary search tree and also give height ofthe tree.",Data Structure,Hard,06,Second,Unit 4
+1184,"What is Binary Search Tree? Write an algorithm to search an element in Binary search tree.",Data Structure,Medium,06,Second,Unit 4
+1185,"Explain Threaded Binary Tree and its types? State its advantages and disadvantages.",Data Structure,Medium,06,Second,Unit 4
+
+1186,"What is skip list? Explain the representation of it in detail.",Data Structure,Easy,06,Second,Unit 5 
+1187,"What is radix sort? Explain in detail with example.",Data Structure,Medium,06,Second,Unit 5 
+1188,"Apply the insertion sort on following list.
+    25 79 41 9 34 60",Data Structure,Hard,06,Second,Unit 5
+1189,"What is graph?",Data Structure,Easy,06,Second,Unit 5 
+1190,"What is threaded binary trees? Give the threaded binary tree of the following binary tree.Explain the in brief the following
+   i) red black tree ii) m-way search tree iii) b tree iv) b+ tree v) sparse matrix vi) AVL tree",Data Structure,Hard,06,Second,Unit 5 
+1191,"Explain binary search algorithm by suitable example. Discuss the complexity of Binary search algorithm.",Data Structure,Medium,06,Second,Unit 5
+1192,"xplain Insertion sort algorithm with suitable example. Discuss the complexity of insertion sort.",Data Structure,Easy,06,Second,Unit 5
+
+1193,"Define Class, Method and Object? Show the syntax to define these in java.",Java,Easy,06,Second,Unit 1
+1194,"Explain parameterized constructor with java program.",Java,Medium,06,Second,Unit 1
+1195,"What are get () and set () method in java? State advantages of get () and set () method.",Java,Hard,06,Second,Unit 1
+1196,"Write a Java Program to Check Whether a Number is Even or Odd.",Java,Easy,06,Second,Unit 1 
+1197,"What are the advantages of the object-oriented programming language?",Java,Medium,06,Second,Unit 1 
+1198,"List the primitive data types available in Java and explain.",Java,Easy,06,Second,Unit 1 
+1199,"Explain the different part of java program.with appropriate example.",Java,Hard,06,Second,Unit 1
+1200,"What are the advantages of Object-oriented programming Language?",Java,Easy,06,Second,Unit 1
+
+1201,"Write a program in Java to display n terms of natural numbers and their sum.",Java,Easy,06,Second,Unit 2
+1202,"What is static variable and static function? State difference between static method and instance method.",Java,Hard,06,Second,Unit 2
+1203,"Explain method overloading using java program.",Java,Medium,06,Second,Unit 2
+1204,"What are the benefits of break and continue statements explain with example?",Java,Easy,06,Second,Unit 2
+1205,"Discuss default constructor and parameterized constructor with the help of an example in Java?",Java,Hard,06,Second,Unit 2
+1206,"Difference between method overloading and method overriding.",Java,Medium,06,Second,Unit 2
+1207,"Expalin default constructor and parameterized Constructor with the help of an examples in java.",Java,Easy,06,Second,Unit 2
+1208,"How do we implement polymorphism in JAVA? Explain briefly.",Java,Medium,06,Second,Unit 2
+
+
+1209,"What is an Array? How do you declare and initialize an Array in java? What are the disadvantages of Array?",Java,Easy,06,Second,Unit 3
+1210,"How to pass Arrays to method and return from method in Java?",Java,Medium,06,Second,Unit 3 
+1211,"What is a Multidimensional array? Write a java program for addition of two dimensional arrays.",Java,Hard,06,Second,Unit 3
+1212,"Write a program to sort the given input array in ascending and descending order? For example : Input: arr[]={13,41,2,21,9,25,3}",Java,Hard,06,Second,Unit 3
+1213,"Write a program to check whether enter number is palindrome or not?",Java,Medium,06,Second,Unit 3 
+1214,"Write the differences between interface and abstract class",Java,Easy,06,Second,Unit 3
+1215,"Write a program to find smallest and largest number from given input array?
+  For example: Input arr[]={13,4,5,2,9}
+  Output: Maximum is 13 and Minimum is 2.",Java,Easy,06,Second,Unit 3
+
+
+1216,"Describe the uses of super keywords with respect to inheritance.",Java,Easy,06,Second,Unit 4 
+1217,"Explain concept of multilevel inheritance using a simple java program.",Java,Medium,06,Second,Unit 4  
+1218,"What is an abstract class in java? What is an interface? List the rules to create an interface in java with example.",Java,Hard,06,Second,Unit 4 
+1219,"Define inheritance. What are the benefits of inheritance? How to prevent a class from inheritance?",Java,Easy,06,Second,Unit 4 
+1220,"Explain different types of inheritance with diagram.",Java,Medium,06,Second,Unit 4  
+1221,"Define polymorphism. Explain run time polymorphism with the help of example.",Java,Hard,06,Second,Unit 4 
+1222,"Write a program to demonstrate hierarchical and multiple inheritance using interfaces.",Java,Hard,06,Second,Unit 4 
+
+1223,"What is exceptions handling and state benefits of exception handling in java? Explain Java Exception Handling Keywords.",Java,Easy,06,Second,Unit 5
+1224,"What is package? Write a program to create user defined package in java.",Java,Hard,06,Second,Unit 5 
+1225,"How to declare variables in JavaScript? Write a Java script Program to add two numbers by using on click event, form and text box.",Java,Hard,06,Second,Unit 5 
+1226,"What is the difference between error and an exception? Explain with help of example",Java,Medium,06,Second,Unit 5 
+1227,"Write the difference between Final, finally and finalize.",Java,Easy,06,Second,Unit 5 
+1228,"Explain try, catch and finally block with the help of example.",Java,Medium,06,Second,Unit 5 
+1229,"How to create user defined exception?",Java,Medium,06,Third,Unit 5 
+1230,"Write a html page and also provide a JavaScript for accepting a user ID and password from the user to ensure that the user is not empty.",Java,Hard,06,Second,Unit 5
